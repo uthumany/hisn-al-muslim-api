@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 105",
+  "data": {
+    "id": 105,
+    "chapter_id": 28,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say before sleeping",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا)).",
+    "english_text": "(In Your name O Allah, I live and die.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Bismikal-lahumma amootu wa-ahya.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/105.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 7,
+    "created_at": "2026-04-08T00:30:04.447061Z",
+    "updated_at": "2026-04-08T00:30:04.447062Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.783951Z"
+  }
+}

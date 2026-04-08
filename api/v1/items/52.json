@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 52",
+  "data": {
+    "id": 52,
+    "chapter_id": 22,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation for At-Tashahhud (sitting in prayer)",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((التَّحِيَّاتُ لِلَّهِ، وَالصَّلَواتُ، وَالطَّيِّباتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ. أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسولُهُ)).",
+    "english_text": "(At-tahiyyat is for Allah. All acts of worship and good deeds are for Him.  Peace and the mercy and blessings of Allah be upon you O Prophet.  Peace be upon us and all of Allah’s righteous servants. I bear witness that none has the right to be worshipped except Allah and I bear witness that Muhammad is His slave and Messenger.)(At-tahiyyat: all words which indicate the glorification of Allah.  His eternal existence, His perfection and His sovereignty.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Attahiyyatu lillahi wassalawatu wattayyibat, assalamu AAalayka ayyuhan-nabiyyu warahmatul-lahi wabarakatuh, assalamu AAalayna waAAala AAibadil-lahis-saliheen. Ash-hadu an la ilaha illal-lah, wa-ashhadu anna Muhammadan AAabduhu warasooluh.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/52.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447321Z",
+    "updated_at": "2026-04-08T00:30:04.447322Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.779482Z"
+  }
+}

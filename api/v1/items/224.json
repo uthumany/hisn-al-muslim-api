@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 224",
+  "data": {
+    "id": 224,
+    "chapter_id": 108,
+    "chapter_title_ar": null,
+    "chapter_title_en": "spreading the greetings of Salam (Peace)",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: ((لاَ تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلاَ تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلاَ أَدُلُّكُم عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُم، أَفْشُوا السَّلاَمَ بَيْنَكُمْ)).",
+    "english_text": "(The Messenger of Allah  said: ‘You shall not enter paradise until you believe, and you shall not believe until you love one another. Shall I not inform you of something, if you were to act upon it, you will indeed achieve mutual love for one another?  Spread the greeting amongst yourselves.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/224.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447881Z",
+    "updated_at": "2026-04-08T00:30:04.447882Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.793233Z"
+  }
+}

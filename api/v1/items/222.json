@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 222",
+  "data": {
+    "id": 222,
+    "chapter_id": 107,
+    "chapter_title_ar": null,
+    "chapter_title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم:((إِنَّ لِلَّهِ مَلاَئِكَةً سَيَّاحِينَ فِي الْأَرْضِ يُبَلِّغُونِي مِنْ أُمَّتِي السَّلاَمَ)).",
+    "english_text": "The Prophet [PBUH] said:'Indeed Allah has angels who roam the earth and they convey to me the greetings (or prayers of peace) of my 'Ummah (nation). ",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/222.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 4,
+    "created_at": "2026-04-08T00:30:04.447874Z",
+    "updated_at": "2026-04-08T00:30:04.447876Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.793069Z"
+  }
+}

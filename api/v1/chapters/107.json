@@ -1,0 +1,130 @@
+{
+  "success": true,
+  "message": "Chapter 107",
+  "data": {
+    "id": 107,
+    "title_ar": null,
+    "title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+    "item_count": 5,
+    "items": [
+      {
+        "id": 219,
+        "chapter_id": 107,
+        "chapter_title_ar": null,
+        "chapter_title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "قَالَ النَّبِيُّ صلى الله عليه وسلم: ((مَنْ صَلَّى عَلَيَّ صَلاَةً صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْراً)).",
+        "english_text": "(The Prophet (PBUH) said: ‘Whoever sends a prayer upon me, Allah sends ten upon him.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/219.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447865Z",
+        "updated_at": "2026-04-08T00:30:04.447866Z"
+      },
+      {
+        "id": 220,
+        "chapter_id": 107,
+        "chapter_title_ar": null,
+        "chapter_title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((لاَ تَجْعَلُوا قَبْرِي عِيداً وَصَلُّوا عَلَيَّ؛ فَإِنَّ صَلاَتَكُم تَبْلُغُنِي حَيْثُ كُنْتُمْ)).",
+        "english_text": "(He (PBUH) also said: ‘Do not take my grave as a place of habitual ceremony.  Send prayers upon me, for verily your prayers reach me wherever you are.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/220.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 2,
+        "created_at": "2026-04-08T00:30:04.447868Z",
+        "updated_at": "2026-04-08T00:30:04.447869Z"
+      },
+      {
+        "id": 221,
+        "chapter_id": 107,
+        "chapter_title_ar": null,
+        "chapter_title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((الْبَخِيلُ مَنْ ذُكِرْتُ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيَّ)).",
+        "english_text": "(He (PBUH) also said: ‘A miser is one whom when I am mentioned to him,  fails to send prayers upon me.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/221.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 3,
+        "created_at": "2026-04-08T00:30:04.447871Z",
+        "updated_at": "2026-04-08T00:30:04.447872Z"
+      },
+      {
+        "id": 222,
+        "chapter_id": 107,
+        "chapter_title_ar": null,
+        "chapter_title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "وَقَالَ صلى الله عليه وسلم:((إِنَّ لِلَّهِ مَلاَئِكَةً سَيَّاحِينَ فِي الْأَرْضِ يُبَلِّغُونِي مِنْ أُمَّتِي السَّلاَمَ)).",
+        "english_text": "The Prophet [PBUH] said:'Indeed Allah has angels who roam the earth and they convey to me the greetings (or prayers of peace) of my 'Ummah (nation). ",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/222.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 4,
+        "created_at": "2026-04-08T00:30:04.447874Z",
+        "updated_at": "2026-04-08T00:30:04.447876Z"
+      },
+      {
+        "id": 223,
+        "chapter_id": 107,
+        "chapter_title_ar": null,
+        "chapter_title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((مَا مِنْ أَحَدٍ يُسَلِّمُ عَلَيَّ إِلاَّ رَدَّ اللَّهُ عَلَيَّ رُوحِيَ حَتَّى أَرُدَّ عَلَيْهِ السَّلاَمَ)).",
+        "english_text": "The Prophet [PBUH] said: 'No one sends greetings (or prayers of peace) upon me but Allah returns my soul to me so that I may return his greetings",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/223.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 5,
+        "created_at": "2026-04-08T00:30:04.447878Z",
+        "updated_at": "2026-04-08T00:30:04.447879Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 5
+  }
+}

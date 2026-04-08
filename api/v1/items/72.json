@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 72",
+  "data": {
+    "id": 72,
+    "chapter_id": 25,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say after completing the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ)) عَشْرَ مَرّاتٍ بَعْدَ صَلاةِ الْمَغْرِبِ وَالصُّبْحِ.",
+    "english_text": "(None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, He gives life and causes death and He is over all things omnipotent.(ten times after the maghrib and fajr prayers))",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, yuhyee wayumeet, wahuwa AAala kulli shayin qadeer.(ten times after the maghrib & fajr prayers))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/73.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 7,
+    "created_at": "2026-04-08T00:30:04.447397Z",
+    "updated_at": "2026-04-08T00:30:04.447399Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.781217Z"
+  }
+}

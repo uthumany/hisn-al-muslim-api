@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 73",
+  "data": {
+    "id": 73,
+    "chapter_id": 25,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say after completing the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً)) بَعْدَ السّلامِ مِنْ صَلاَةِ الفَجْرِ.",
+    "english_text": "(O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable.)(To be said after giving salam for the fajr prayer)",
+    "transliteration": "(Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan.(after salam from fajr prayer))",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan.(after salam from fajr prayer))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/73.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 8,
+    "created_at": "2026-04-08T00:30:04.447401Z",
+    "updated_at": "2026-04-08T00:30:04.447402Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.781295Z"
+  }
+}

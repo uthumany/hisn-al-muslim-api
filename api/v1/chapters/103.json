@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 103",
+  "data": {
+    "id": 103,
+    "title_ar": null,
+    "title_en": "The traveler's invocation at dawn",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 215,
+        "chapter_id": 103,
+        "chapter_title_ar": null,
+        "chapter_title_en": "The traveler's invocation at dawn",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سَمَّعَ سَامِعٌ بِحَمْدِ اللَّهِ، وَحُسْنِ بَلاَئِهِ عَلَيْنَا، رَبَّنَا صاحِبْنَا، وَأَفْضِلْ عَلَيْنَا، عَائِذاً بِاللَّهِ مِنَ النَّارِ)).",
+        "english_text": "(May a witness, be witness to our praise of Allah for His favours and bounties upon us.  Our Lord, protect us, show favour on us and deliver us from every evil.  I take refuge in Allah from the fire.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(SamiAAa samiAAun bihamdil-lahi wahusni bala-ihi AAalayna. Rabbana sahibna wa-afdil AAalayna AAa-ithan billahi minan-nar.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/215.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447849Z",
+        "updated_at": "2026-04-08T00:30:04.447850Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 148",
+  "data": {
+    "id": 148,
+    "chapter_id": 49,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for visiting the sick",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((أَسْأَلُ اللَّهَ الْعَظيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفيَكَ)) (سبع مرات).",
+    "english_text": "(I ask Allah The Supreme, Lord of the magnificent throne to cure you’.(7times) (he (the sick person) will be cured.))",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Asalul-lahal-AAatheem rabbal-AAarshil-AAatheem an yashfeek (7times).)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/148.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447555Z",
+    "updated_at": "2026-04-08T00:30:04.447556Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.787272Z"
+  }
+}

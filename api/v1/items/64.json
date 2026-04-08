@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 64",
+  "data": {
+    "id": 64,
+    "chapter_id": 24,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations after the final Tash-ahhud and before ending the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لَا إِلَهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيكَ لَكَ، الْمَنَّانُ، يَا بَدِيعَ السَّمَوَاتِ وَالْأَرْضِ يَا ذَا الْجَلاَلِ وَالْإِكْرَامِ، يَا حَيُّ يَا قَيُّومُ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ)).",
+    "english_text": "(O Allah, I ask You as unto You is all praise, none has the right to be worshipped except You, alone, without partner. You are the Benefactor. O Originator of the heavens and the Earth, O Possessor of majesty and honour, O Ever Living, O Self-Subsisting and Supporter of all, verily I ask You for Paradise and I take refuge with You from the Fire.)",
+    "transliteration": "(Allahumma innee as-aluka bianna lakal-hamd, la ilaha illa ant wahdaka la shareeka lak, almannan, ya badeeAAas-samawati wal-ard, ya thal-jalali wal-ikram, ya hayyu ya qayyoom, innee as-alukal-jannah, wa-aAAoothu bika minan-nar.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma innee as-aluka bianna lakal-hamd, la ilaha illa ant wahdaka la shareeka lak, almannan, ya badeeAAas-samawati wal-ard, ya thal-jalali wal-ikram, ya hayyu ya qayyoom, innee as-alukal-jannah, wa-aAAoothu bika minan-nar.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/64.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 10,
+    "created_at": "2026-04-08T00:30:04.447368Z",
+    "updated_at": "2026-04-08T00:30:04.447369Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.780489Z"
+  }
+}

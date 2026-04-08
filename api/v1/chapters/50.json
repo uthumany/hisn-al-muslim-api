@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 50",
+  "data": {
+    "id": 50,
+    "title_ar": null,
+    "title_en": "The reward for visiting the sick",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 149,
+        "chapter_id": 50,
+        "chapter_title_ar": null,
+        "chapter_title_en": "The reward for visiting the sick",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "قَالَ النَّبِيُّ صلى الله عليه وسلم: ((إِذَا عَادَ الرَّجُلُ أَخَاهُ الْمُسْلِمَ مَشَى فِي خِرَافَةِ الْجَنَّةِ حَتَّى يَجْلِسَ، فَإِذَا جَلَسَ غَمَرَتْهُ الرَّحْمَةُ، فَإِنْ كَانَ غُدْوَةً صَلَّى عَلَيْهِ سَبْعُونَ أَلْفَ مَلَكٍ حَتَّى يُمْسِيَ، وَإِنْ كَانَ مَسَاءً صَلَّى عَلَيْهِ سَبْعُونَ أَلْفَ مَلَكٍ حَتَّى يُصْبِحَ)).",
+        "english_text": "(Ali Ibn Abee Talib  related that he heard the Messenger of Allah  say: ‘If a man calls on his sick Muslim brother, it is as if he walks reaping the fruits of Paradise until he sits, and when he sits he is showered in mercy, and if this was in the morning, seventy thousand angles send prayers upon him until the evening, and if this was in the evening, seventy thousand angles send prayers upon him until the morning.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/49.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447560Z",
+        "updated_at": "2026-04-08T00:30:04.447561Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

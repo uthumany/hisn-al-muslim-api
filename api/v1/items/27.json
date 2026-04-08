@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 27",
+  "data": {
+    "id": 27,
+    "chapter_id": 16,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for the beginning of the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": " ((اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْني مِنْ خَطَايَايَ، بِالثَّلْجِ وَالْماءِ وَالْبَرَدِ)).",
+    "english_text": "(O Allah, distance me from my sins just as You have distanced The East from The West, O Allah, purify me of my sins as a white robe is purified of filth, O Allah, cleanse me of my sins with snow, water, and ice.)",
+    "transliteration": "(Allahumma baAAid baynee wabayna khatayaya kama baAAadta baynal-mashriqi walmaghrib, allahumma naqqinee min khatayaya kama yunaqqath-thawbul-abyadu minad-danas, allahummagh-silnee min khatayaya biththalji walma/i walbarad.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma baAAid baynee wabayna khatayaya kama baAAadta baynal-mashriqi walmaghrib, allahumma naqqinee min khatayaya kama yunaqqath-thawbul-abyadu minad-danas, allahummagh-silnee min khatayaya biththalji walma/i walbarad.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/27.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447194Z",
+    "updated_at": "2026-04-08T00:30:04.447195Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.776760Z"
+  }
+}

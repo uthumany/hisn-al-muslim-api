@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 86",
+  "data": {
+    "id": 86,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلاَ فِي السّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ)) (ثلاثَ مرَّاتٍ).",
+    "english_text": "(In the name of Allah with whose name nothing is harmed on earth nor in the heavens and He is The All-Seeing, The All-Knowing.’(three times))",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Bismil-lahil-lathee la yadurru maAAas-mihi shay-on fil-ardi wala fis-sama-i wahuwas-sameeAAul-AAaleem. (three times).)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/86.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 12,
+    "created_at": "2026-04-08T00:30:04.446974Z",
+    "updated_at": "2026-04-08T00:30:04.446975Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.782473Z"
+  }
+}

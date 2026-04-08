@@ -1,0 +1,199 @@
+{
+  "success": true,
+  "message": "Chapter 25",
+  "data": {
+    "id": 25,
+    "title_ar": null,
+    "title_en": "What to say after completing the prayer",
+    "item_count": 8,
+    "items": [
+      {
+        "id": 66,
+        "chapter_id": 25,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say after completing the prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((أَسْتَغْفِرُ اللَّهَ (ثَلاَثَاً) اللَّهُمَّ أَنْتَ السَّلاَمُ، وَمِنْكَ السَّلاَمُ، تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالْإِكْرَامِ)).",
+        "english_text": "(I ask Allah for forgiveness.(three times) (O Allah, You are As-Salam and from You is all peace, blessed are You, O Possessor of majesty and honour.) (AS-Salam: The One Who is free from all defects and deficiencies.))",
+        "transliteration": "(Astaghfirul-lah (three times) (Allahumma antas-salam waminkas-salam, tabarakta ya thal-jalali wal-ikram.))",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Astaghfirul-lah (three times) (Allahumma antas-salam waminkas-salam, tabarakta ya thal-jalali wal-ikram.))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/66.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447375Z",
+        "updated_at": "2026-04-08T00:30:04.447376Z"
+      },
+      {
+        "id": 67,
+        "chapter_id": 25,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say after completing the prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ [ثلاثاً]، اللَّهُمَّ لاَ مَانِعَ لِمَا أَعْطَيْتَ، وَلاَ مُعْطِيَ لِمَا مَنَعْتَ، وَلاَ يَنْفَعُ ذَا الْجَدِّ مِنْكَ الجَدُّ)).",
+        "english_text": "(None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent.O Allah, none can prevent what You have willed to bestow and none can bestow what You have willed to prevent, and no wealth or majesty can benefit anyone, as from You is all wealth and majesty.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shayin qadeer, allahumma la maniAAa lima aAAtayt, wala muAAtiya lima manaAAt, wala yanfaAAu thal-jaddi minkal-jad.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/67.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 2,
+        "created_at": "2026-04-08T00:30:04.447379Z",
+        "updated_at": "2026-04-08T00:30:04.447380Z"
+      },
+      {
+        "id": 68,
+        "chapter_id": 25,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say after completing the prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((لَا إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ، لاَ إِلَهَ إِلاَّ اللَّهُ، وَلاَ نَعْبُدُ إِلاَّ إِيَّاهُ, لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَهَ إِلاَّ اللَّهُ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الكَافِرُونَ)).",
+        "english_text": "(None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent.  There is no might nor power except with Allah, none has the right to be worshipped except Allah and we worship none except Him.  For Him is all favour, grace, and glorious praise.  None has the right to be worshipped except Allah and we are sincere in faith and devotion to Him although the disbelievers detest it.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(La ilaha illal-lah, wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shayin qadeer. la hawla wala quwwata illa billah, la ilaha illal-lah, wala naAAbudu illa iyyah, lahun-niAAmatu walahul-fadl walahuth-thana-ol- hasan, la ilaha illal-lah mukhliseena lahud-deen walaw karihal-kafiroon.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/68.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 3,
+        "created_at": "2026-04-08T00:30:04.447384Z",
+        "updated_at": "2026-04-08T00:30:04.447385Z"
+      },
+      {
+        "id": 69,
+        "chapter_id": 25,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say after completing the prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ (ثلاثاً وثلاثين) لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ)).",
+        "english_text": "(How perfect Allah is, all praise is for Allah, and Allah is the greatest.(thirty-three times) (None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent.))",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subhanal-lah walhamdu lillah, wallahu akbar (thirty-three times). (La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shayin qadeer.))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/69.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 4,
+        "created_at": "2026-04-08T00:30:04.447388Z",
+        "updated_at": "2026-04-08T00:30:04.447389Z"
+      },
+      {
+        "id": 70,
+        "chapter_id": 25,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say after completing the prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "بسم الله الرحمن الرحيم ﴿قُلْ هُوَ اللَّهُ أَحَدٌ* اللَّهُ الصَّمَدُ* لَمْ يَلِدْ وَلَمْ يُولَدْ* وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ﴾، بسم الله الرحمن الرحيم ﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ* مِن شَرِّ مَا خَلَقَ* وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ* وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ* وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ﴾،بسم الله الرحمن الرحيم ﴿قُلْ أَعُوذُ بِرَبِّ النَّاسِ* مَلِكِ النَّاسِ* إِلَهِ النَّاسِ* مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ* الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ* مِنَ الْجِنَّةِ وَ النَّاسِ﴾ بَعْدَ كُلِّ صَلاَةٍ.",
+        "english_text": "The following three Soorahs should be recited once after Zuhr, 'Asr and 'Ishaa prayers and thrice after the Fajr and Maghrib prayers.[Soorah al-Ikhlaas (112)] [Soorah al-Falaq (113)] [Soorah an-Naas (114)]",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/70.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 5,
+        "created_at": "2026-04-08T00:30:04.447391Z",
+        "updated_at": "2026-04-08T00:30:04.447392Z"
+      },
+      {
+        "id": 71,
+        "chapter_id": 25,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say after completing the prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "﴿اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ﴾ عَقِبَ كلِّ صَلاَةٍ.",
+        "english_text": "It is also from the Sunnah to recite Aayat ul-Kursee after each prayer:[Soorah al-Baqarah, Aayah 255]",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/71.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 6,
+        "created_at": "2026-04-08T00:30:04.447394Z",
+        "updated_at": "2026-04-08T00:30:04.447395Z"
+      },
+      {
+        "id": 72,
+        "chapter_id": 25,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say after completing the prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ)) عَشْرَ مَرّاتٍ بَعْدَ صَلاةِ الْمَغْرِبِ وَالصُّبْحِ.",
+        "english_text": "(None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, He gives life and causes death and He is over all things omnipotent.(ten times after the maghrib and fajr prayers))",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, yuhyee wayumeet, wahuwa AAala kulli shayin qadeer.(ten times after the maghrib & fajr prayers))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/73.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 7,
+        "created_at": "2026-04-08T00:30:04.447397Z",
+        "updated_at": "2026-04-08T00:30:04.447399Z"
+      },
+      {
+        "id": 73,
+        "chapter_id": 25,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say after completing the prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً)) بَعْدَ السّلامِ مِنْ صَلاَةِ الفَجْرِ.",
+        "english_text": "(O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable.)(To be said after giving salam for the fajr prayer)",
+        "transliteration": "(Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan.(after salam from fajr prayer))",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan.(after salam from fajr prayer))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/73.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 8,
+        "created_at": "2026-04-08T00:30:04.447401Z",
+        "updated_at": "2026-04-08T00:30:04.447402Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 8
+  }
+}

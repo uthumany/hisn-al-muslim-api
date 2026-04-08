@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 225",
+  "data": {
+    "id": 225,
+    "chapter_id": 108,
+    "chapter_title_ar": null,
+    "chapter_title_en": "spreading the greetings of Salam (Peace)",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((ثَلاَثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الْإِيمَانَ: الْإِنْصَافُ مِنْ نَفْسِكَ، وَبَذْلُ السَّلاَمِ لِلْعَالَمِ، وَالْإِنْفَاقُ مِنَ الإِقْتَارِ)).",
+    "english_text": "(Aammar  said: ‘Three characteristics, whoever combines them, has completed his faith: to be just, to spread greetings to all people and to spend (charitably) out of the little you have.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/225.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447886Z",
+    "updated_at": "2026-04-08T00:30:04.447887Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.793320Z"
+  }
+}

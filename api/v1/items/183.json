@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 183",
+  "data": {
+    "id": 183,
+    "chapter_id": 72,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation for someone who gives you drink or offers it to you",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي، وَاسْقِ مَنْ سَقَانِي)).",
+    "english_text": "(O Allah, feed him who fed me, and provide with drink him who provided me with drink.)",
+    "transliteration": "(Allahumma atAAim man atAAamanee wasqi man saqanee.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma atAAim man atAAamanee wasqi man saqanee.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/183.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447712Z",
+    "updated_at": "2026-04-08T00:30:04.447713Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.789969Z"
+  }
+}

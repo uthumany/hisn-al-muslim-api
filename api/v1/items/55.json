@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 55",
+  "data": {
+    "id": 55,
+    "chapter_id": 24,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations after the final Tash-ahhud and before ending the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُــمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ)).",
+    "english_text": "(O Allah, I take refuge in You from the punishment of the grave, from the torment of the Fire, from the trials and tribulations of life and death and from the evil affliction of Al-Maseeh Ad-Dajjal.)(Al-Maseeh Ad-Dajjal: among the great signs of the last hour and the greatest trials to befall mankind, which every Prophet has warned about.  Most of mankind will follow him. He will appear from Asbahan, Iran at the time when the Muslims will conquer Constantinople.  He will be given special powers and will make the truth seem false and vice versa.  He will claim to be righteous and then he will claim prophethood and finally, divinity.  From his features is that he will be blind in his right eye which is a definite proof that contradicts his claim to be Allah as it is a sign of imperfection.  The word Kafir will be written between his eyes which every believer, literate or illiterate will recognise.)",
+    "transliteration": "(Allahumma innee aAAoothu bika min AAathabil-qabr, wamin AAathabi jahannam, wamin fitnatil-mahya walmamat, wamin shari fitnatil-maseehid-dajjal.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma innee aAAoothu bika min AAathabil-qabr, wamin AAathabi jahannam, wamin fitnatil-mahya walmamat, wamin shari fitnatil-maseehid-dajjal.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/55.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447332Z",
+    "updated_at": "2026-04-08T00:30:04.447333Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.779761Z"
+  }
+}

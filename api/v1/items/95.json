@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 95",
+  "data": {
+    "id": 95,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً)) (إذا أصبحَ).",
+    "english_text": "(O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable.)",
+    "transliteration": "(Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/95.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 21,
+    "created_at": "2026-04-08T00:30:04.447021Z",
+    "updated_at": "2026-04-08T00:30:04.447022Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.783124Z"
+  }
+}

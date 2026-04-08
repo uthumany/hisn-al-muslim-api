@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 161",
+  "data": {
+    "id": 161,
+    "chapter_id": 56,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for a child in the Funeral prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ اجْعَلْهُ لَنَا فَرَطاً، وَسَلَفاً، وَأَجْراً)).",
+    "english_text": "(O Allah, make him for us a precursor,a forerunner and a cause of reward)",
+    "transliteration": "(Allahummaj-AAalhu lana farata, wasalafan wa-ajra.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahummaj-AAalhu lana farata, wasalafan wa-ajra.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/161.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447608Z",
+    "updated_at": "2026-04-08T00:30:04.447609Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.788273Z"
+  }
+}

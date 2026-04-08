@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 253",
+  "data": {
+    "id": 253,
+    "chapter_id": 129,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Repentance and seeking forgiveness",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((إِنَّهُ لَيُغَانُ عَلَى قَلْبِي وَإِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ مِائَةَ مَرَّةٍ)).",
+    "english_text": "(He  also said: ‘verily my heart becomes preoccupied, and verily I seek Allah’s forgiveness a hundred times a day.)(preoccupied: i.e. in a state of ‘forgetfulness’. The Prophet  always used to increase in his remembrance of his Lord, in attaining a nearness to Allah and having consciousness of Allah to the extent that if this intensity lessened in anyway, he would regard it as a sin and would then race to seek forgiveness from Allah.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/253.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 6,
+    "created_at": "2026-04-08T00:30:04.448020Z",
+    "updated_at": "2026-04-08T00:30:04.448021Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.795684Z"
+  }
+}

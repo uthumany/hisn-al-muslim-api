@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 83",
+  "data": {
+    "id": 83,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((حَسْبِيَ اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ عَلَيهِ تَوَكَّلتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ)) (سَبْعَ مَرّاتٍ).",
+    "english_text": "Allah is Sufficient for me, none has the right to be worshipped except Him, upon Him I rely and He is Lord of the exalted throne.’ (Recite seven times in Arabic.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Hasbiyal-lahu la ilaha illa huwa, AAalayhi tawakkalt, wahuwa rabbul-AAarshil-AAatheem (Recite seven times in Arabic.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/83.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 9,
+    "created_at": "2026-04-08T00:30:04.446961Z",
+    "updated_at": "2026-04-08T00:30:04.446962Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.782239Z"
+  }
+}

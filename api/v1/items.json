@@ -1,0 +1,475 @@
+{
+  "success": true,
+  "message": "All Items (Page 1)",
+  "data": [
+    {
+      "id": 1,
+      "chapter_id": 1,
+      "chapter_title_ar": null,
+      "chapter_title_en": "supplications for when you wake up",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(.الْحَمْدُ للَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ )",
+      "english_text": "(All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Alhamdu lillahil-lathee ahyana baAAda ma amatana wa-ilayhin-nushoor.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/1.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447090Z",
+      "updated_at": "2026-04-08T00:30:04.447092Z"
+    },
+    {
+      "id": 2,
+      "chapter_id": 1,
+      "chapter_title_ar": null,
+      "chapter_title_en": "supplications for when you wake up",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَريكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ للَّهِ، وَلاَ إِلَهَ إِلاَّ اللَّهُ، وَاللَّهُ أَكبَرُ، وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفرْ لِي",
+      "english_text": "(None has the right to be worshipped except Allah, alone without associate, to Him belongs sovereignty and praise and He is over all things wholly capable.  How perfect Allah is, and all praise is for Allah, and none has the right to be worshipped except Allah, Allah is the greatest and there is no power nor might except with Allah, The Most High, The Supreme.O my Lord forgive me)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shay-in qadeer, subhanal-lah, walhamdu lillah, wala  ilaha illal-lah wallahu akbar, wala hawla wala quwwata illa billahil-AAaliyyil AAatheem. Rabbigh-fir lee)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/2.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 2,
+      "created_at": "2026-04-08T00:30:04.447095Z",
+      "updated_at": "2026-04-08T00:30:04.447096Z"
+    },
+    {
+      "id": 3,
+      "chapter_id": 1,
+      "chapter_title_ar": null,
+      "chapter_title_en": "supplications for when you wake up",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "( الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لي بِذِكْرِهِ )",
+      "english_text": "(All praise is for Allah who restored to me my health and returned my soul and  has allowed me to remember Him.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Alhamdu lillahil-lathee AAafanee fee jasadee waradda AAalayya roohee wa-athina lee bithikrih.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/3.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 3,
+      "created_at": "2026-04-08T00:30:04.447098Z",
+      "updated_at": "2026-04-08T00:30:04.447099Z"
+    },
+    {
+      "id": 4,
+      "chapter_id": 1,
+      "chapter_title_ar": null,
+      "chapter_title_en": "supplications for when you wake up",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "﴿ إِنَّ فِي خَلْقِ السَّمَوَاتِ وَالأَرْضِ وَاخْتِلاَفِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لأُوْلِي الألْبَابِ * الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَاماً وَقُعُوداً وَعَلَىَ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَوَاتِ وَالأَرْضِ رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ* رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ* رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِياً يُنَادِي لِلإِيمَانِ أَنْ آمِنُواْ بِرَبِّكُمْ فَآمَنَّا رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الأبْرَارِ* رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَى رُسُلِكَ وَلاَ تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ تُخْلِفُ الْمِيعَادَ* فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لاَ أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَى بَعْضُكُم مِّن بَعْضٍ فَالَّذِينَ هَاجَرُواْ وَأُخْرِجُواْ مِن دِيَارِهِمْ وَأُوذُواْ فِي سَبِيلِي وَقَاتَلُواْ وَقُتِلُواْ لأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الأَنْهَارُ ثَوَاباً مِّن عِندِ اللَّهِ وَاللَّهُ عِندَهُ حُسْنُ الثَّوَابِ * لاَ يَغُرَّنَّكَ تَقَلُّبُ الَّذِينَ كَفَرُواْ فِي الْبِلاَدِ * مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمِهَادُ * لَكِنِ الَّذِينَ اتَّقَوْاْ رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا نُزُلاً مِّنْ عِندِ اللَّهِ وَمَا عِندَ اللَّهِ خَيْرٌ لِّلأَبْرَارِ * وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ لاَ يَشْتَرُونَ بِآيَاتِ اللَّهِ ثَمَناً قَلِيلاً أُوْلَئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ*يَا أَيُّهَا الَّذِينَ آمَنُواْ اصْبِرُواْ وَصَابِرُواْ وَرَابِطُواْ وَاتَّقُواْ اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ ﴾",
+      "english_text": "( 190 )   Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding.( 191 )   Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.( 192 )   Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.( 193 )   Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous.( 194 )   Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.( 195 )   And their Lord responded to them, Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allah, and Allah has with Him the best reward.( 196 )   Be not deceived by the [uninhibited] movement of the disbelievers throughout the land.( 197 )   [It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place.( 198 )   But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allah. And that which is with Allah is best for the righteous.( 199 )   And indeed, among the People of the Scripture are those who believe in Allah and what was revealed to you and what was revealed to them, [being] humbly submissive to Allah. They do not exchange the verses of Allah for a small price.Those will have their reward with their Lord. Indeed, Allah is swift in account.( 200 )   O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "From Verse 3:190 till the end of the chapter Al-Imran"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/4.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 4,
+      "created_at": "2026-04-08T00:30:04.447101Z",
+      "updated_at": "2026-04-08T00:30:04.447102Z"
+    },
+    {
+      "id": 5,
+      "chapter_id": 2,
+      "chapter_title_ar": null,
+      "chapter_title_en": "Invocation when getting dressed",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(الْحَمْدُ للَّهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلاَ قُوَّة...)",
+      "english_text": "(All Praise is for Allah who has clothed me with this garment and provided it for me, with no power nor might from myself.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Alhamdu lillahil-lathee kasanee hatha (aththawb) warazaqaneehi min ghayri hawlin minnee wala quwwah.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/5.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447175Z",
+      "updated_at": "2026-04-08T00:30:04.447176Z"
+    },
+    {
+      "id": 6,
+      "chapter_id": 3,
+      "chapter_title_ar": null,
+      "chapter_title_en": "Invocation when putting on new clothes",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "( اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ).",
+      "english_text": "(O Allah, for You is all praise, You have clothed me with it (i.e. the garment), I ask You for the good of it and the good for which it was made, and I seek refuge with You from the evil of it and the evil for which it was made.)",
+      "transliteration": "(Allahumma lakal-hamdu anta kasawtaneeh, as-aluka min khayrihi wakhayri ma suniAAa lah, wa-aAAoothu bika min sharrihi washarri ma suniAAa lah.)",
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Allahumma lakal-hamdu anta kasawtaneeh, as-aluka min khayrihi wakhayri ma suniAAa lah, wa-aAAoothu bika min sharrihi washarri ma suniAAa lah.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/6.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447179Z",
+      "updated_at": "2026-04-08T00:30:04.447180Z"
+    },
+    {
+      "id": 7,
+      "chapter_id": 4,
+      "chapter_title_ar": null,
+      "chapter_title_en": "Invocations for someone who has put on new clothes",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(تُبْلِي وَيُخْلِفُ اللَّهُ تَعَالَى)",
+      "english_text": "(May you wear it out and Allah تعالى replace it (with another).’ The intended meaning: A supplication for long life.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Tublee wayukhliful-lahu taAAala.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/7.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447183Z",
+      "updated_at": "2026-04-08T00:30:04.447184Z"
+    },
+    {
+      "id": 8,
+      "chapter_id": 4,
+      "chapter_title_ar": null,
+      "chapter_title_en": "Invocations for someone who has put on new clothes",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(اِلْبَسْ جَدِيداً وَعِشْ حَمِيداً وَمُتْ شَهِيداً).",
+      "english_text": "(Wear anew, live commendably and die a shaheed.)(shaheed:One who dies fighting the kuffar in order to make the word of Allah superior or in defense of Islam.  It also has other meanings found in the Sunnah such as: the one who dies defending his life, wealth or family; the woman who passes away due to childbirth; one who drowns…etc.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Ilbas jadeedan waAAish hameedan wamut shaheedan.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/8.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 2,
+      "created_at": "2026-04-08T00:30:04.447186Z",
+      "updated_at": "2026-04-08T00:30:04.447187Z"
+    },
+    {
+      "id": 9,
+      "chapter_id": 5,
+      "chapter_title_ar": null,
+      "chapter_title_en": "What to say when undressing",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(بِسْمِ اللَّهِ).",
+      "english_text": "(In the name of Allah.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Bismil-lah.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/9.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447190Z",
+      "updated_at": "2026-04-08T00:30:04.447191Z"
+    },
+    {
+      "id": 10,
+      "chapter_id": 6,
+      "chapter_title_ar": null,
+      "chapter_title_en": "Invocation for entering the restroom",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "([بِسْمِ اللَّهِ] اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبائِث).",
+      "english_text": "((In the name of Allah).  O Allah, I take refuge with you from all evil and evil-doers.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "((Bismil-lah) allahumma innee aAAoothu bika minal-khubthi wal-khaba-ith.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/10.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447106Z",
+      "updated_at": "2026-04-08T00:30:04.447107Z"
+    },
+    {
+      "id": 11,
+      "chapter_id": 7,
+      "chapter_title_ar": null,
+      "chapter_title_en": "Invocation for leaving the restroom",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(غُفْرَانَكَ).",
+      "english_text": "(I ask You (Allah) for forgiveness.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Ghufranak.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/11.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447109Z",
+      "updated_at": "2026-04-08T00:30:04.447110Z"
+    },
+    {
+      "id": 12,
+      "chapter_id": 8,
+      "chapter_title_ar": null,
+      "chapter_title_en": "What to say before performing ablution",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(بِسْمِ اللَّهِ).",
+      "english_text": "(In the name of Allah.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Bismil-lah.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/12.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447113Z",
+      "updated_at": "2026-04-08T00:30:04.447114Z"
+    },
+    {
+      "id": 13,
+      "chapter_id": 9,
+      "chapter_title_ar": null,
+      "chapter_title_en": "What to say upon completing ablution",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ..).",
+      "english_text": "(I bear witness that none has the right to be worshipped except Allah, alone without partner, and I bear witness that Muhammad is His slave and Messenger.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Ashhadu an la ilaha illal-lahu wahdahu la shareeka lah, wa-ashhadu anna Muhammadan AAabduhu warasooluh.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/13.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447118Z",
+      "updated_at": "2026-04-08T00:30:04.447119Z"
+    },
+    {
+      "id": 14,
+      "chapter_id": 9,
+      "chapter_title_ar": null,
+      "chapter_title_en": "What to say upon completing ablution",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ)",
+      "english_text": "(O Allah, make me of those who return to You often in repentance and make me of those who remain clean and pure.)",
+      "transliteration": "(Allahummaj-AAalnee minat-tawwabeena wajAAalnee minal-mutatahhireen.)",
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Allahummaj-AAalnee minat-tawwabeena wajAAalnee minal-mutatahhireen.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/14.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 2,
+      "created_at": "2026-04-08T00:30:04.447121Z",
+      "updated_at": "2026-04-08T00:30:04.447122Z"
+    },
+    {
+      "id": 15,
+      "chapter_id": 9,
+      "chapter_title_ar": null,
+      "chapter_title_en": "What to say upon completing ablution",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(سُبْحانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتوبُ إِلَيْكَ).",
+      "english_text": "(How perfect You are O Allah, and I praise You, I bear witness that none has the right to be worshipped except You, I seek Your forgiveness and turn in repentance to You.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Subhanakal-lahumma wabihamdika ashhadu an la ilaha illa anta astaghfiruka wa-atoobu ilayk.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/15.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 3,
+      "created_at": "2026-04-08T00:30:04.447125Z",
+      "updated_at": "2026-04-08T00:30:04.447126Z"
+    },
+    {
+      "id": 16,
+      "chapter_id": 10,
+      "chapter_title_ar": null,
+      "chapter_title_en": "What to say when leaving the home",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، وَلَاَ حَوْلَ وَلَا قُوَّةَ إِلاَّ بِاللَّهِ).",
+      "english_text": "(In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Bismil-lah, tawakkaltu AAalal-lah, wala hawla wala quwwata illa billah.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/16.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447129Z",
+      "updated_at": "2026-04-08T00:30:04.447130Z"
+    },
+    {
+      "id": 17,
+      "chapter_id": 10,
+      "chapter_title_ar": null,
+      "chapter_title_en": "What to say when leaving the home",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضَلَّ، أَوْ أَزِلَّ، أَوْ أُزَلَّ، أَوْ أَظْلِمَ، أَوْ أُظْلَمَ، أَوْ أَجْهَلَ، أَوْ يُجْهَلَ عَلَيَّ).",
+      "english_text": "(O Allah, I take refuge with You lest I should stray or be led astray, or slip or be tripped, or oppress or be oppressed, or behave foolishly or be treated foolishly.)(slip: i.e. to commit a sin unintentionally)",
+      "transliteration": "(Allahumma innee aAAoothu bika an adilla aw odal, aw azilla aw ozall, aw athlima aw othlam, aw ajhala aw yujhala AAalay.)",
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Allahumma innee aAAoothu bika an adilla aw odal, aw azilla aw ozall, aw athlima aw othlam, aw ajhala aw yujhala AAalay.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/17.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 2,
+      "created_at": "2026-04-08T00:30:04.447132Z",
+      "updated_at": "2026-04-08T00:30:04.447133Z"
+    },
+    {
+      "id": 18,
+      "chapter_id": 11,
+      "chapter_title_ar": null,
+      "chapter_title_en": "What to say when entering the home",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا، ثُمَّ لِيُسَلِّمْ عَلَى أَهْلِهِ).",
+      "english_text": "(In the name of Allah we enter and in the name of Allah we leave, and upon our Lord we place our trust.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(Bismil-lahi walajna, wabismil-lahi kharajna, waAAala rabbina tawakkalna.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/18.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447136Z",
+      "updated_at": "2026-04-08T00:30:04.447137Z"
+    },
+    {
+      "id": 19,
+      "chapter_id": 12,
+      "chapter_title_ar": null,
+      "chapter_title_en": "Invocation for going to the mosque",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "اللّهُـمَّ اجْعَـلْ فِي قَلْبـي نُوراً ، وَفي لِسَـانِي نُوراً، وَفِي سَمْعِي نُوراً, وَفِي بَصَرِيِ نُوراً, وَمِنْ فََوْقِي نُوراً , وَ مِنْ تَحْتِي نُوراً, وَ عَنْ يَمِينيِ نُوراَ, وعَنْ شِمَالِي نُوراً, وَمْن أَماَمِي نُوراً, وَمِنْ خَلْفيِ نُوراَ, واجْعَلْ فِي نَفْسِي نُوراً, وأَعْظِمْ لِي نُوراً, وَعظِّمْ لِي نُوراً, وَاجْعَلْ لِي نُوراً, واجْعَلنِي نُوراً, أللَّهُمَّ أَعْطِنِي نُوراً, واجْعَلْ فِي عَصَبِي نُوراً, وَفِي لَحْمِي نُوراً, وَفِي دَمِي نُوراً وَفِي شَعْرِي نُوراً, وفِي بَشَرِي نُوراً (أَللَّهُمَّ اجِعَلْ لِي نُوراً فِي قّبْرِي وَ نُوراَ فِي عِظاَمِي) (وَزِدْنِي نُوراً, وَزِدْنِي نُوراَ , وَزِدْنِي نُوراً) (وَهَبْ لِي نُوراً عَلَى نُوراً )",
+      "english_text": "(‘O Allaah, place within my heart light; and upon my tongue light; and within my ears light; and within my eyes light; and place above me light; and beneath me light; and on my right light; and on my left light; and in front of me light; and behind me light; and place light within my soul; and augment light for me; and greaten light for me; and grant me light and make me light. O Allaah, bestow upon me light; and place light in my tendons; and light in my flesh; and light in my blood; and in light in my hair and light in my skin.’ [O Allaah, place light for me in my grave and light in my bones]. [And increase me with light and increase me with light and increase me with light]. [And grant me light upon light.]’)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "Allaahummaj 'al fee qalbee nooran, wa fee lisaanee nooran, wa fee sam'ee nooran, wa fee basaree nooran, wa min fawqee nooran, wa min tahtee nooran, wa 'an yameenee nooran, wa 'an shimaalee nooran, wa min 'amaamee nooran, wa min khalfee nooran. Wa j'al fee nafsee nooran, wa 'a'dhim lee nooran, wa 'a'dhim lee nooran. Waj'al lee nooran, waj'alnee nooran. Allaahumma a'tineje nooran, waj'al fee 'asabee nooran, wa fee lahmee nooran, wa fee damee nooran, wa fee sha'ree nooran, wa fee basharee nooran.[Allaahummaj'al lee nooran fee qabree, wa nooran fee 'idhaamee.][Wa zidnee nooran, wa zidnee nooran, wa zidnee nooran.][Wa hab lee nooran 'alaa noor.]"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/19.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447141Z",
+      "updated_at": "2026-04-08T00:30:04.447143Z"
+    },
+    {
+      "id": 20,
+      "chapter_id": 13,
+      "chapter_title_ar": null,
+      "chapter_title_en": "Invocation for entering the mosque",
+      "title_ar": null,
+      "title_en": null,
+      "arabic_text": "(يَبْدَأُ بِرِجْلِهِ الْيُمْنَى) ، وَيَقُولُ: ((أَعُوذُ بِاللَّهِ العَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ))  [بِسْمِ اللَّهِ، وَالصَّلَاةُ] [وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ]  ((اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)).",
+      "english_text": "(I take refuge with Allah, The Supreme and with His Noble Face, and His eternal authority from the accursed devil. In the name of Allah, and prayers and peace be upon the Messenger of Allah.  O Allah, open the gates of Your mercy for me.)",
+      "transliteration": null,
+      "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+        "raw": "(aAAoothu billahil-AAatheem wabiwajhihil-kareem wasultanihil-qadeem minash-shaytanir-rajeem, [bismil-lah, wassalatu] [wassalamu AAala rasoolil-lah] , allahumma iftah lee abwaba rahmatik.)"
+      },
+      "audio_url": "http://www.hisnmuslim.com/audio/ar/20.mp3",
+      "audio_sync": {
+        "words": []
+      },
+      "footnote": null,
+      "source": "Hisn al-Muslim",
+      "order_index": 1,
+      "created_at": "2026-04-08T00:30:04.447146Z",
+      "updated_at": "2026-04-08T00:30:04.447147Z"
+    }
+  ],
+  "meta": {
+    "count": 20,
+    "pagination": {
+      "total": 267,
+      "page": 1,
+      "limit": 20,
+      "total_pages": 14
+    }
+  }
+}

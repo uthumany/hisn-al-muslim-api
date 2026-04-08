@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 48",
+  "data": {
+    "id": 48,
+    "chapter_id": 20,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for sitting between two prostrations",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي)).",
+    "english_text": "(My Lord forgive me, My Lord forgive me.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Rabbigh-fir lee, rabbigh-fir lee.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/48.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447305Z",
+    "updated_at": "2026-04-08T00:30:04.447307Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.778762Z"
+  }
+}

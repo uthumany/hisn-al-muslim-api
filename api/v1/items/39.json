@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 39",
+  "data": {
+    "id": 39,
+    "chapter_id": 18,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for rising from the Ruki'",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((رَبَّنَا وَلَكَ الْحَمْدُ، حَمْداً كَثيراً طَيِّباً مُبارَكاً فِيهِ)).",
+    "english_text": "(Our Lord, for You is all praise, an abundant beautiful blessed praise.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Rabbana walakal-hamdu hamdan katheeran tayyiban mubarakan feeh.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/39.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447270Z",
+    "updated_at": "2026-04-08T00:30:04.447271Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.777969Z"
+  }
+}

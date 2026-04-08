@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 44",
+  "data": {
+    "id": 44,
+    "chapter_id": 19,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations during Sujood",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِيَ لِلَّذِي خَلَقَهُ، وَصَوَّرَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسنُ الْخَالِقينَ)).",
+    "english_text": "(O Allah, unto You I have prostrated and in You I have believed, and unto You I have submitted. My face has prostrated before He Who created it and fashioned it, and brought forth its faculties of hearing and seeing. Blessed is Allah, the Best of creators.)",
+    "transliteration": "(Allahumma laka sajadt, wabika amant, walaka aslamt, sajada wajhee lillathee khalaqahu wasawwarahu washaqqa samAAahu wabasarahu, tabarakal-lahu ahsanul-khaliqeen.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma laka sajadt, wabika amant, walaka aslamt, sajada wajhee lillathee khalaqahu wasawwarahu washaqqa samAAahu wabasarahu, tabarakal-lahu ahsanul-khaliqeen.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/44.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 4,
+    "created_at": "2026-04-08T00:30:04.447288Z",
+    "updated_at": "2026-04-08T00:30:04.447289Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.778406Z"
+  }
+}

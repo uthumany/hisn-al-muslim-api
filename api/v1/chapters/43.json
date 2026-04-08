@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 43",
+  "data": {
+    "id": 43,
+    "title_ar": null,
+    "title_en": "Invocation for when you find something becoming difficult for you",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 139,
+        "chapter_id": 43,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation for when you find something becoming difficult for you",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ لاَ سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلاً)).",
+        "english_text": "(O Allah, there is no ease except in that which You have made easy, and You make the difficulty, if You wish, easy.)",
+        "transliteration": "(Allahumma la sahla illa ma jaAAaltahu sahla, wa-anta tajAAalul- hazana in shi'ta sahla.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahumma la sahla illa ma jaAAaltahu sahla, wa-anta tajAAalul- hazana in shi'ta sahla.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/139.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447520Z",
+        "updated_at": "2026-04-08T00:30:04.447521Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

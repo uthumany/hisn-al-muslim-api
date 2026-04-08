@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 42",
+  "data": {
+    "id": 42,
+    "chapter_id": 19,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations during Sujood",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي)).",
+    "english_text": "(How perfect You are O Allah, our Lord, and I praise You. O Allah, forgive me.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Subhanakal-lahumma rabbana wabihamdik, allahummagh- fir lee.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/42.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447282Z",
+    "updated_at": "2026-04-08T00:30:04.447283Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.778228Z"
+  }
+}

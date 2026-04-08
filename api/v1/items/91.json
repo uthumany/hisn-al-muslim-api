@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 91",
+  "data": {
+    "id": 91,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((سُبْحَانَ اللَّهِ وَبِحَمْدِهِ)) (مائة مرَّةٍ).",
+    "english_text": "(How perfect Allah is and I praise Him.)(one hundred times)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Subhanal-lahi wabihamdih.)one hundred times)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/91.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 17,
+    "created_at": "2026-04-08T00:30:04.446994Z",
+    "updated_at": "2026-04-08T00:30:04.446995Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.782849Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 218",
+  "data": {
+    "id": 218,
+    "chapter_id": 106,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say if something happens to please you or to displease you",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَتَاهُ الْأَمْرُ يَسُرُّهُ قَالَ: ((الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ)) وَإِذَا أَتَاهُ الْأَمْرُ يَكْرَهُهُ قَالَ: ((الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ)).",
+    "english_text": "When something happened that pleased him, the Prophet used to say:((Alhamdu lillaahil-lathee bini'matihi tatimmuus-saalihaat)). Praise is to Allah Who by His blessings all good things are perfected. And if something happened that displeased him, he used to say:((Alhamdulillaahi 'alaa kulli haal)).Praise is to Allah in all circumstances.",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "When something happened that pleased him, the Prophet used to say:((Alhamdu lillaahil-lathee bini'matihi tatimmuus-saalihaat)).And if something happened that displeased him, he used to say:((Alhamdulillaahi 'alaa kulli haal))."
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/218.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447861Z",
+    "updated_at": "2026-04-08T00:30:04.447863Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.792685Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 136",
+  "data": {
+    "id": 136,
+    "chapter_id": 41,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for the setting of a debt",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ اكْفِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكِ عَمَّنْ سِوَاكَ)).",
+    "english_text": "(O Allah, make what is lawful enough for me, as opposed to what is unlawful, and spare me by Your grace, of need of others.)",
+    "transliteration": "(Allahummak-finee bihalalika AAan haramik, wa-aghninee bifadlika AAamman siwak.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahummak-finee bihalalika AAan haramik, wa-aghninee bifadlika AAamman siwak.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/136.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447509Z",
+    "updated_at": "2026-04-08T00:30:04.447510Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.786334Z"
+  }
+}

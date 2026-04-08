@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 131",
+  "data": {
+    "id": 131,
+    "chapter_id": 38,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation against an enemy",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيعَ الْحِسَابِ، اهْزِمِ الأَحْزَابَ، اللَّهُمَّ اهزِمْهُمْ وَزَلْزِلْهُمْ)).",
+    "english_text": "(O Allah, Revealer of the Book, Swift at reckoning, defeat the confederates. O Allah, defeat them and convulse them.)",
+    "transliteration": "(Allahumma munzilal-kitab, sareeAAal-hisab, ihzimil-ahzab, allahummah-zimhum wazalzilhum.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma munzilal-kitab, sareeAAal-hisab, ihzimil-ahzab, allahummah-zimhum wazalzilhum.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/131.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447488Z",
+    "updated_at": "2026-04-08T00:30:04.447489Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.785991Z"
+  }
+}

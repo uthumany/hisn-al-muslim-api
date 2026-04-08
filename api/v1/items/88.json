@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 88",
+  "data": {
+    "id": 88,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغيثُ أَصْلِحْ لِي شَأْنِيَ كُلَّهُ وَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ)).",
+    "english_text": "(O Ever Living, O Self-Subsisting and Supporter of all, by Your mercy I seek assistance, rectify for me all of my affairs and do not leave me to myself, even for the blink of an eye.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Ya hayyu ya qayyoom, birahmatika astagheeth, aslih lee sha/nee kullah, wala takilnee ila nafsee tarfata AAayn.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/88.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 14,
+    "created_at": "2026-04-08T00:30:04.446981Z",
+    "updated_at": "2026-04-08T00:30:04.446982Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.782608Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 198",
+  "data": {
+    "id": 198,
+    "chapter_id": 87,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation for someone who does good to you",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((جَزَاكَ اللَّهُ خَيْراً)).",
+    "english_text": "(If someone does you a favour and you say: (May Allah reward you with goodness.) then you have indeed excelled in praising him.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(If someone does you a favour and you say: (Jazakal-lahu khayran.) then you have indeed excelled in praising him.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/198.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447775Z",
+    "updated_at": "2026-04-08T00:30:04.447776Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.791141Z"
+  }
+}

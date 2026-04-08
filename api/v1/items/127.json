@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 127",
+  "data": {
+    "id": 127,
+    "chapter_id": 36,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for when you meet an adversary or a powerful ruler.",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ أَنْتَ عَضُدِي، وَأَنْتَ نَصِيرِي، بِكَ أَحُولُ وَبِكَ أَصُولُ، وَبِكَ أُقاتِلُ)).",
+    "english_text": "(O Allah, You are my supporter and You are my helper, by You I move and by You I attack and by You I battle.)",
+    "transliteration": "(Allahumma anta AAadudee, wa-anta naseeree, bika ajoolu wabika asoolu wabika oqatil)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma anta AAadudee, wa-anta naseeree, bika ajoolu wabika asoolu wabika oqatil)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/127.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447472Z",
+    "updated_at": "2026-04-08T00:30:04.447473Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.785699Z"
+  }
+}

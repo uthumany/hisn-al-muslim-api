@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 8",
+  "data": {
+    "id": 8,
+    "chapter_id": 4,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for someone who has put on new clothes",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "(اِلْبَسْ جَدِيداً وَعِشْ حَمِيداً وَمُتْ شَهِيداً).",
+    "english_text": "(Wear anew, live commendably and die a shaheed.)(shaheed:One who dies fighting the kuffar in order to make the word of Allah superior or in defense of Islam.  It also has other meanings found in the Sunnah such as: the one who dies defending his life, wealth or family; the woman who passes away due to childbirth; one who drowns…etc.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Ilbas jadeedan waAAish hameedan wamut shaheedan.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/8.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447186Z",
+    "updated_at": "2026-04-08T00:30:04.447187Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.775356Z"
+  }
+}

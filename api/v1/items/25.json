@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 25",
+  "data": {
+    "id": 25,
+    "chapter_id": 15,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say upon hearing the Athan (call to prayer)",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "يَقُولُ: ((اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ الْقَائِمَةِ، آتِ مُحَمَّداً الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامَاً مَحمُوداً الَّذِي وَعَدْتَهُ، [إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ])).",
+    "english_text": "‘O Allah, Owner of this perfect call and Owner of this prayer to be performed, bestow upon Muhammad al-waseelah and al-fadeelah and send him upon a praised platform which You have promised him.  Verily, You never fail in Your promise.’al-waseelah: A station in paradise.al-fadeelah: A rank above the rest of creation.praised platform: One in which all of creation will praise him on, in order to bring about the account quickly and be relieved from the lengthy standing or the role of intercession.",
+    "transliteration": "Allahumma rabba hathihid-daAAwatit-tammah, wassalatil-qa-imah ati Muhammadan alwaseelata wal-fadeelah, wabAAath-hu maqaman mahmoodan allathee waAAadtah, innaka la tukhliful-meeAAad.",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "Allahumma rabba hathihid-daAAwatit-tammah, wassalatil-qa-imah ati Muhammadan alwaseelata wal-fadeelah, wabAAath-hu maqaman mahmoodan allathee waAAadtah, innaka la tukhliful-meeAAad."
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/25.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 4,
+    "created_at": "2026-04-08T00:30:04.447168Z",
+    "updated_at": "2026-04-08T00:30:04.447169Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.776603Z"
+  }
+}

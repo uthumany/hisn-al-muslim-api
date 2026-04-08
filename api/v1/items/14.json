@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 14",
+  "data": {
+    "id": 14,
+    "chapter_id": 9,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say upon completing ablution",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "(اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ)",
+    "english_text": "(O Allah, make me of those who return to You often in repentance and make me of those who remain clean and pure.)",
+    "transliteration": "(Allahummaj-AAalnee minat-tawwabeena wajAAalnee minal-mutatahhireen.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahummaj-AAalnee minat-tawwabeena wajAAalnee minal-mutatahhireen.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/14.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447121Z",
+    "updated_at": "2026-04-08T00:30:04.447122Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.775759Z"
+  }
+}

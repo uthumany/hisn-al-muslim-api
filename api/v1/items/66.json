@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 66",
+  "data": {
+    "id": 66,
+    "chapter_id": 25,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say after completing the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((أَسْتَغْفِرُ اللَّهَ (ثَلاَثَاً) اللَّهُمَّ أَنْتَ السَّلاَمُ، وَمِنْكَ السَّلاَمُ، تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالْإِكْرَامِ)).",
+    "english_text": "(I ask Allah for forgiveness.(three times) (O Allah, You are As-Salam and from You is all peace, blessed are You, O Possessor of majesty and honour.) (AS-Salam: The One Who is free from all defects and deficiencies.))",
+    "transliteration": "(Astaghfirul-lah (three times) (Allahumma antas-salam waminkas-salam, tabarakta ya thal-jalali wal-ikram.))",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Astaghfirul-lah (three times) (Allahumma antas-salam waminkas-salam, tabarakta ya thal-jalali wal-ikram.))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/66.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447375Z",
+    "updated_at": "2026-04-08T00:30:04.447376Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.780645Z"
+  }
+}

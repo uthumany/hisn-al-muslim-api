@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 111",
+  "data": {
+    "id": 111,
+    "chapter_id": 28,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say before sleeping",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ)).",
+    "english_text": "(O Allah, I submit my soul unto You, and I entrust my affair unto You, and I turn my face towards You, and I totally rely on You, in hope and fear of You.Verily there is no refuge nor safe haven from You except with You.  I believe in Your Book which You have revealed and in Your Prophet whom You have sent.)(If you then die, you will die upon the fitrah.)(fitrah: the religion of Islam, the way of Ibraheem u.)",
+    "transliteration": "(Allahumma aslamtu nafsee ilayk, wafawwadtu amree ilayk, wawajjahtu wajhee ilayk, wa-alja/tu thahree ilayk, raghbatan warahbatan ilayk, la maljaa wala manja minka illa ilayk, amantu bikitabikal-lathee anzalt, wabinabiyyikal-lathee arsalt.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma aslamtu nafsee ilayk, wafawwadtu amree ilayk, wawajjahtu wajhee ilayk, wa-alja/tu thahree ilayk, raghbatan warahbatan ilayk, la maljaa wala manja minka illa ilayk, amantu bikitabikal-lathee anzalt, wabinabiyyikal-lathee arsalt.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/111.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 13,
+    "created_at": "2026-04-08T00:30:04.447086Z",
+    "updated_at": "2026-04-08T00:30:04.447087Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.784389Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 231",
+  "data": {
+    "id": 231,
+    "chapter_id": 113,
+    "chapter_title_ar": null,
+    "chapter_title_en": "How a Muslim should praise another Muslim",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "قَالَ النَّبِيُّ صلى الله عليه وسلم: ((إِذَا كَانَ أَحَدُكُم مَادِحاً صَاحِبَهُ لاَ مَحَالَةَ فَلْيَقُلْ: أَحْسِبُ فُلاَناً وَاللَّهُ حَسِيبُهُ، وَلاَ أُزَكِّي عَلَى اللَّهِ أَحَداً، أَحْسِبُهُ – إِنْ كَانَ يَعْلَمُ ذَاكَ – كَذَا وَكَذَا)).",
+    "english_text": "(He  said: ‘If anyone of you is impelled to praise his brother, then he should say: ‘I deem so-and-so to be…and Allah is his reckoner…and I don’t praise anyone, putting it (i.e. my praising) forward, in front of Allah’s commendation, however I assume him so and so’…if he knows that of him.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/231.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447911Z",
+    "updated_at": "2026-04-08T00:30:04.447912Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.793848Z"
+  }
+}

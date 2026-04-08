@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 65",
+  "data": {
+    "id": 65,
+    "chapter_id": 24,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations after the final Tash-ahhud and before ending the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ)) .",
+    "english_text": "(O Allah, I ask You, as I bear witness that You are Allah, none has the right to be worshipped except You, The One, AS-Samad Who begets not nor was He begotten and there is none like unto Him.)(AS-Samad: The Self-Sufficient Master, Possessor of perfect attributes whom all of creation turn to in all their needs.)",
+    "transliteration": "(Allahumma inne as-aluka biannee ashhadu annaka antal-lah, la ilaha illa ant, al-ahadus-samad, allathee lam yalid walam yoolad walam yakun lahu kufuwan ahad.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma inne as-aluka biannee ashhadu annaka antal-lah, la ilaha illa ant, al-ahadus-samad, allathee lam yalid walam yoolad walam yakun lahu kufuwan ahad.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/65.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 11,
+    "created_at": "2026-04-08T00:30:04.447371Z",
+    "updated_at": "2026-04-08T00:30:04.447372Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.780565Z"
+  }
+}

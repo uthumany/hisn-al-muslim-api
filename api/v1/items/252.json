@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 252",
+  "data": {
+    "id": 252,
+    "chapter_id": 129,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Repentance and seeking forgiveness",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ فَأَكثِرُوا الدُّعَاءَ)).",
+    "english_text": "(He  also said: ‘The nearest a servant is to his Lord is when he is prostrating, so supplicate much therein.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/252.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 5,
+    "created_at": "2026-04-08T00:30:04.448016Z",
+    "updated_at": "2026-04-08T00:30:04.448018Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.795602Z"
+  }
+}

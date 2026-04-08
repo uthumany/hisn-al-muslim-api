@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 122",
+  "data": {
+    "id": 122,
+    "chapter_id": 35,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for anguish",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((لاَ إِلَهَ إِلاَّ اللَّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ)).",
+    "english_text": "(None has the right to be worshipped except Allah Forbearing.  None has the right to be worshipped except Allah, Lord of the magnificent throne.  None has the right to be worshipped except Allah, Lord of the heavens, Lord of the Earth and Lord of the noble throne.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(La ilaha illal-lahul-AAatheemul-haleem, la ilaha illal-lahu rabbul-AAarshil-AAatheem, la ilaha illal-lahu  rabbus-samawati warabbul-ardi warabbul-AAarshil-kareem.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/122.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447452Z",
+    "updated_at": "2026-04-08T00:30:04.447454Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.785252Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 115",
+  "data": {
+    "id": 115,
+    "chapter_id": 31,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to do if you have a bad dream or nightmare",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((ويَقُومُ يُصَلِّي إِنْ أَرَادَ ذَلِكَ)).",
+    "english_text": "(Get up and pray if you so desire.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/115.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447423Z",
+    "updated_at": "2026-04-08T00:30:04.447424Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.784691Z"
+  }
+}

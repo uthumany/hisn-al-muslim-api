@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 41",
+  "data": {
+    "id": 41,
+    "chapter_id": 19,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations during Sujood",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((سُبْحَانَ رَبِّيَ الأَعْلَى)) ثلاث مرَّاتٍ.",
+    "english_text": "(How perfect my Lord is, The Most High.’(three times))",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Subhana rabbiyal-aAAla. (three times)))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/41.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447278Z",
+    "updated_at": "2026-04-08T00:30:04.447279Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.778144Z"
+  }
+}

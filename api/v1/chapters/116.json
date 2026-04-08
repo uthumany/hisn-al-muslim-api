@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 116",
+  "data": {
+    "id": 116,
+    "title_ar": null,
+    "title_en": "Saying Allahu Akbar when passing the Black Stone",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 234,
+        "chapter_id": 116,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Saying Allahu Akbar when passing the Black Stone",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((طَافَ النَّبيُّ صلى الله عليه وسلم بِالْبَيْتِ عَلَى بَعِيرٍ كُلَّمَا أَتَى الرُّكْنَ أَشَارَ إِلَيْهِ بِشَيْءٍ عِنْدَهُ وَكَبَّرَ)).",
+        "english_text": "(The Prophet  circled the KaAAbah on a camel, every time he reached the black stone he would point to it with his staff and say: (Allah is the greatest))",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(The Prophet  circled the KaAAbah on a camel, every time he reached the black stone he would point to it with his staff and say: (Allahu akbar))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/234.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447922Z",
+        "updated_at": "2026-04-08T00:30:04.447923Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

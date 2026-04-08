@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 54",
+  "data": {
+    "id": 54,
+    "chapter_id": 23,
+    "chapter_title_ar": null,
+    "chapter_title_en": "How to recite blessings on the Prophet after the Tashahhud",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ. وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى أَزْواجِهِ وَذُرِّيَّتِهِ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ. إِنَّكَ حَمِيدٌ مَجِيدٌ)).",
+    "english_text": "(O Allah, send prayers upon Muhammad and upon the wives and descendants of Muhammad, just as You sent prayers upon the family of Ibraheem, and send blessings upon Muhammad and upon the wives and descendants of Muhammad, just as You sent blessings upon the family of Ibraheem. Verily, You are full of praise and majesty.)",
+    "transliteration": "(Allahumma salli AAala Muhammad wa-AAala azwajihi wathurriyyatihi kama sallayta AAala ali Ibraheem, wabarik AAala Muhammad, wa-AAala azwajihi wathurriyyatih, kama barakta AAala ali Ibraheem. innaka Hameedun Majeed.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma salli AAala Muhammad wa-AAala azwajihi wathurriyyatihi kama sallayta AAala ali Ibraheem, wabarik AAala Muhammad, wa-AAala azwajihi wathurriyyatih, kama barakta AAala ali Ibraheem. innaka Hameedun Majeed.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/54.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447328Z",
+    "updated_at": "2026-04-08T00:30:04.447329Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.779659Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 36",
+  "data": {
+    "id": 36,
+    "chapter_id": 17,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations during Ruki' (bowing in prayer)",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، خَشَعَ لَكَ سَمْعِي، وَبَصَرِي، وَمُخِّي، وَعَــــظْمِي، وَعَصَبِي، [وَمَا استَقَلَّتْ بِهِ قَدَمِي])).",
+    "english_text": "(O Allah, unto You I have bowed, and in You I have believed, and to You I have submitted. My hearing, sight, mind, bones, tendons and what my feet carry are humbled before You.)",
+    "transliteration": "(Allahumma laka rakaAAt, wabika amant, walaka aslamt, khashaAAa laka samAAee, wabasaree, wamukhkhee, waAAathmee, waAAasabee, wamas-taqalla bihi qadamee.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma laka rakaAAt, wabika amant, walaka aslamt, khashaAAa laka samAAee, wabasaree, wamukhkhee, waAAathmee, waAAasabee, wamas-taqalla bihi qadamee.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/36.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 4,
+    "created_at": "2026-04-08T00:30:04.447257Z",
+    "updated_at": "2026-04-08T00:30:04.447259Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.777699Z"
+  }
+}

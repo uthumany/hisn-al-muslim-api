@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "message": "Chapter 20",
+  "data": {
+    "id": 20,
+    "title_ar": null,
+    "title_en": "Invocations for sitting between two prostrations",
+    "item_count": 2,
+    "items": [
+      {
+        "id": 48,
+        "chapter_id": 20,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations for sitting between two prostrations",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي)).",
+        "english_text": "(My Lord forgive me, My Lord forgive me.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Rabbigh-fir lee, rabbigh-fir lee.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/48.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447305Z",
+        "updated_at": "2026-04-08T00:30:04.447307Z"
+      },
+      {
+        "id": 49,
+        "chapter_id": 20,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations for sitting between two prostrations",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي، وَارْزُقْنِي، وَارْفَعْنِي)).",
+        "english_text": "(O Allah, forgive me, have mercy upon me, guide me, enrich me, give me health, grant me sustenance and raise my rank.)",
+        "transliteration": "(Allahummagh-fir lee, warhamnee, wahdinee, wajburnee, waAAafinee, warzuqnee warfaAAnee.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahummagh-fir lee, warhamnee, wahdinee, wajburnee, waAAafinee, warzuqnee warfaAAnee.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/49.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 2,
+        "created_at": "2026-04-08T00:30:04.447309Z",
+        "updated_at": "2026-04-08T00:30:04.447310Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 2
+  }
+}

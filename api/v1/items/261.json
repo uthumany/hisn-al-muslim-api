@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 261",
+  "data": {
+    "id": 261,
+    "chapter_id": 130,
+    "chapter_title_ar": null,
+    "chapter_title_en": "The excellence of remembering Allah",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((أَحَبُّ الْكَلاَمِ إِلَى اللَّهِ أَرْبَعٌ: سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلاَ إِلَهَ إِلاَّ اللَّهُ، وَاللَّهُ أَكْبَرُ، لاَ يَضُرُّكَ بِأَيِّهِنَّ بَدَأتَ)).",
+    "english_text": "(the most beloved words to Allah are four: (How perfect Allah is, all praise is for Allah. None has the right to be worshipped except Allah and Allah is the greatest.))(it does not matter which of them you start with.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(the most beloved words to Allah are four: (Subhanal-lah, walhamdu lillah, wala ilaha illal-lah, wallahu akbar.))(it does not matter which of them you start with.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/261.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 8,
+    "created_at": "2026-04-08T00:30:04.448056Z",
+    "updated_at": "2026-04-08T00:30:04.448057Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.796346Z"
+  }
+}

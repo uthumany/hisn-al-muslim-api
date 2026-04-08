@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 73",
+  "data": {
+    "id": 73,
+    "title_ar": null,
+    "title_en": "Invocation for a family who invites you to break your fast with them",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 184,
+        "chapter_id": 73,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation for a family who invites you to break your fast with them",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": " ((أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلاَئِكَةُ)).",
+        "english_text": "(May the fasting break their fast in your home, and may the dutiful and pious eat your food, and may the angles send prayers upon you.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Aftara AAindakumus-sa-imoon, wa-akala taAAamakumul-abrar, wasallat AAalaykumul-mala-ikah.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/184.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447716Z",
+        "updated_at": "2026-04-08T00:30:04.447717Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

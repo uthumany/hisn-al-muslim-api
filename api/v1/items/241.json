@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 241",
+  "data": {
+    "id": 241,
+    "chapter_id": 122,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say when surprised or startled",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُ أَكْبَرُ!)).",
+    "english_text": "(Allah is the greatest.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahu akbar.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/241.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447973Z",
+    "updated_at": "2026-04-08T00:30:04.447975Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.794681Z"
+  }
+}

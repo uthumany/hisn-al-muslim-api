@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 48",
+  "data": {
+    "id": 48,
+    "title_ar": null,
+    "title_en": "How to seek Allah's protection for children",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 146,
+        "chapter_id": 48,
+        "chapter_title_ar": null,
+        "chapter_title_en": "How to seek Allah's protection for children",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": " كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُعَوِّذُ الحَسَنَ وَالحُسَينَ رضي الله عنهما ((أُعِيذُكُمَا بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ)).",
+        "english_text": "(Ibn AAabbas related that the Messenger of Allah  used to commend Al-Hasan and Al-Husayn to Allah’s protection, saying:(I commend you two to the protection of Allah’s perfect words from every devil, vermin, and every evil eye.))",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Ibn AAabbas related that the Messenger of Allah  used to commend Al-Hasan and Al-Husayn to Allah’s protection, saying:(OAAeethukuma bikalimatil-lahit-tammah, min kulli shaytanin wahammah, wamin kulli AAaynin lammah.))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/146.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447547Z",
+        "updated_at": "2026-04-08T00:30:04.447548Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

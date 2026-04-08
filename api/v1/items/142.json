@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 142",
+  "data": {
+    "id": 142,
+    "chapter_id": 45,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations against the Devil and his promptings",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "الْأَذَانُ",
+    "english_text": "The Adhaan [call to prayer].",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/142.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447530Z",
+    "updated_at": "2026-04-08T00:30:04.447531Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.786770Z"
+  }
+}

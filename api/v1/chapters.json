@@ -1,0 +1,801 @@
+{
+  "success": true,
+  "message": "All Chapters",
+  "data": [
+    {
+      "id": 1,
+      "title_ar": null,
+      "title_en": "supplications for when you wake up",
+      "item_count": 4
+    },
+    {
+      "id": 2,
+      "title_ar": null,
+      "title_en": "Invocation when getting dressed",
+      "item_count": 1
+    },
+    {
+      "id": 3,
+      "title_ar": null,
+      "title_en": "Invocation when putting on new clothes",
+      "item_count": 1
+    },
+    {
+      "id": 4,
+      "title_ar": null,
+      "title_en": "Invocations for someone who has put on new clothes",
+      "item_count": 2
+    },
+    {
+      "id": 5,
+      "title_ar": null,
+      "title_en": "What to say when undressing",
+      "item_count": 1
+    },
+    {
+      "id": 6,
+      "title_ar": null,
+      "title_en": "Invocation for entering the restroom",
+      "item_count": 1
+    },
+    {
+      "id": 7,
+      "title_ar": null,
+      "title_en": "Invocation for leaving the restroom",
+      "item_count": 1
+    },
+    {
+      "id": 8,
+      "title_ar": null,
+      "title_en": "What to say before performing ablution",
+      "item_count": 1
+    },
+    {
+      "id": 9,
+      "title_ar": null,
+      "title_en": "What to say upon completing ablution",
+      "item_count": 3
+    },
+    {
+      "id": 10,
+      "title_ar": null,
+      "title_en": "What to say when leaving the home",
+      "item_count": 2
+    },
+    {
+      "id": 11,
+      "title_ar": null,
+      "title_en": "What to say when entering the home",
+      "item_count": 1
+    },
+    {
+      "id": 12,
+      "title_ar": null,
+      "title_en": "Invocation for going to the mosque",
+      "item_count": 1
+    },
+    {
+      "id": 13,
+      "title_ar": null,
+      "title_en": "Invocation for entering the mosque",
+      "item_count": 1
+    },
+    {
+      "id": 14,
+      "title_ar": null,
+      "title_en": "Invocation for leaving the mosque",
+      "item_count": 1
+    },
+    {
+      "id": 15,
+      "title_ar": null,
+      "title_en": "What to say upon hearing the Athan (call to prayer)",
+      "item_count": 5
+    },
+    {
+      "id": 16,
+      "title_ar": null,
+      "title_en": "Invocations for the beginning of the prayer",
+      "item_count": 6
+    },
+    {
+      "id": 17,
+      "title_ar": null,
+      "title_en": "Invocations during Ruki' (bowing in prayer)",
+      "item_count": 5
+    },
+    {
+      "id": 18,
+      "title_ar": null,
+      "title_en": "Invocations for rising from the Ruki'",
+      "item_count": 3
+    },
+    {
+      "id": 19,
+      "title_ar": null,
+      "title_en": "Invocations during Sujood",
+      "item_count": 7
+    },
+    {
+      "id": 20,
+      "title_ar": null,
+      "title_en": "Invocations for sitting between two prostrations",
+      "item_count": 2
+    },
+    {
+      "id": 21,
+      "title_ar": null,
+      "title_en": "Supplications for prostrating due to recitation of the Qur'an",
+      "item_count": 2
+    },
+    {
+      "id": 22,
+      "title_ar": null,
+      "title_en": "Invocation for At-Tashahhud (sitting in prayer)",
+      "item_count": 1
+    },
+    {
+      "id": 23,
+      "title_ar": null,
+      "title_en": "How to recite blessings on the Prophet after the Tashahhud",
+      "item_count": 2
+    },
+    {
+      "id": 24,
+      "title_ar": null,
+      "title_en": "Invocations after the final Tash-ahhud and before ending the prayer",
+      "item_count": 11
+    },
+    {
+      "id": 25,
+      "title_ar": null,
+      "title_en": "What to say after completing the prayer",
+      "item_count": 8
+    },
+    {
+      "id": 26,
+      "title_ar": null,
+      "title_en": "Istikharah (seeking Allah's Counsel)",
+      "item_count": 1
+    },
+    {
+      "id": 27,
+      "title_ar": null,
+      "title_en": "Words of remembrance for morning and evening",
+      "item_count": 24
+    },
+    {
+      "id": 28,
+      "title_ar": null,
+      "title_en": "What to say before sleeping",
+      "item_count": 13
+    },
+    {
+      "id": 29,
+      "title_ar": null,
+      "title_en": "Invocation to say if you stir in the night",
+      "item_count": 1
+    },
+    {
+      "id": 30,
+      "title_ar": null,
+      "title_en": "What to say if you are afraid to go to sleep or feel lonely and depressed",
+      "item_count": 1
+    },
+    {
+      "id": 31,
+      "title_ar": null,
+      "title_en": "What to do if you have a bad dream or nightmare",
+      "item_count": 2
+    },
+    {
+      "id": 32,
+      "title_ar": null,
+      "title_en": "Invocations for Qunut in the Witr prayer",
+      "item_count": 3
+    },
+    {
+      "id": 33,
+      "title_ar": null,
+      "title_en": "What to say immediately following the Witr prayer",
+      "item_count": 1
+    },
+    {
+      "id": 34,
+      "title_ar": null,
+      "title_en": "Invocations in times of worry and grief",
+      "item_count": 2
+    },
+    {
+      "id": 35,
+      "title_ar": null,
+      "title_en": "Invocations for anguish",
+      "item_count": 4
+    },
+    {
+      "id": 36,
+      "title_ar": null,
+      "title_en": "Invocations for when you meet an adversary or a powerful ruler.",
+      "item_count": 3
+    },
+    {
+      "id": 37,
+      "title_ar": null,
+      "title_en": "Invocations against the oppression of rulers",
+      "item_count": 2
+    },
+    {
+      "id": 38,
+      "title_ar": null,
+      "title_en": "Invocation against an enemy",
+      "item_count": 1
+    },
+    {
+      "id": 39,
+      "title_ar": null,
+      "title_en": "What to say if you fear people may harm you",
+      "item_count": 1
+    },
+    {
+      "id": 40,
+      "title_ar": null,
+      "title_en": "Invocations for if you are stricken by in your faith",
+      "item_count": 3
+    },
+    {
+      "id": 41,
+      "title_ar": null,
+      "title_en": "Invocations for the setting of a debt",
+      "item_count": 2
+    },
+    {
+      "id": 42,
+      "title_ar": null,
+      "title_en": "Invocation against the distractions of Satan during the prayer and recitation of the Quran",
+      "item_count": 1
+    },
+    {
+      "id": 43,
+      "title_ar": null,
+      "title_en": "Invocation for when you find something becoming difficult for you",
+      "item_count": 1
+    },
+    {
+      "id": 44,
+      "title_ar": null,
+      "title_en": "What to say and do if you commit a sin",
+      "item_count": 1
+    },
+    {
+      "id": 45,
+      "title_ar": null,
+      "title_en": "Invocations against the Devil and his promptings",
+      "item_count": 3
+    },
+    {
+      "id": 46,
+      "title_ar": null,
+      "title_en": "Invocation for when something you dislike happens, or for when you fail to achieve what you attempt to do",
+      "item_count": 1
+    },
+    {
+      "id": 47,
+      "title_ar": null,
+      "title_en": "Congratulations for new parents and how they should respond",
+      "item_count": 1
+    },
+    {
+      "id": 48,
+      "title_ar": null,
+      "title_en": "How to seek Allah's protection for children",
+      "item_count": 1
+    },
+    {
+      "id": 49,
+      "title_ar": null,
+      "title_en": "Invocations for visiting the sick",
+      "item_count": 2
+    },
+    {
+      "id": 50,
+      "title_ar": null,
+      "title_en": "The reward for visiting the sick",
+      "item_count": 1
+    },
+    {
+      "id": 51,
+      "title_ar": null,
+      "title_en": "Invocations of the terminal ill",
+      "item_count": 3
+    },
+    {
+      "id": 52,
+      "title_ar": null,
+      "title_en": "What to encourage the dying person to say",
+      "item_count": 1
+    },
+    {
+      "id": 53,
+      "title_ar": null,
+      "title_en": "Invocation for when tragedy strikes",
+      "item_count": 1
+    },
+    {
+      "id": 54,
+      "title_ar": null,
+      "title_en": "Invocation for closing the eyes of the dead",
+      "item_count": 1
+    },
+    {
+      "id": 55,
+      "title_ar": null,
+      "title_en": "Invocations for the dead in the Funeral prayer",
+      "item_count": 4
+    },
+    {
+      "id": 56,
+      "title_ar": null,
+      "title_en": "Invocations for a child in the Funeral prayer",
+      "item_count": 2
+    },
+    {
+      "id": 57,
+      "title_ar": null,
+      "title_en": "Invocation for the bereaved",
+      "item_count": 1
+    },
+    {
+      "id": 58,
+      "title_ar": null,
+      "title_en": "Invocation to be recited when placing the dead in his grave",
+      "item_count": 1
+    },
+    {
+      "id": 59,
+      "title_ar": null,
+      "title_en": "Invocation to be recited after burying the dead",
+      "item_count": 1
+    },
+    {
+      "id": 60,
+      "title_ar": null,
+      "title_en": "Invocation for visiting the graves",
+      "item_count": 1
+    },
+    {
+      "id": 61,
+      "title_ar": null,
+      "title_en": "Invocations for when the wind blows",
+      "item_count": 2
+    },
+    {
+      "id": 62,
+      "title_ar": null,
+      "title_en": "Invocation for when it thunder",
+      "item_count": 1
+    },
+    {
+      "id": 63,
+      "title_ar": null,
+      "title_en": "Some invocations for rain",
+      "item_count": 3
+    },
+    {
+      "id": 64,
+      "title_ar": null,
+      "title_en": "Invocation for when it rains",
+      "item_count": 1
+    },
+    {
+      "id": 65,
+      "title_ar": null,
+      "title_en": "Supplication after it rains",
+      "item_count": 1
+    },
+    {
+      "id": 66,
+      "title_ar": null,
+      "title_en": "Invocation for the withholding of the rain",
+      "item_count": 1
+    },
+    {
+      "id": 67,
+      "title_ar": null,
+      "title_en": "Invocation for sighting the new moon",
+      "item_count": 1
+    },
+    {
+      "id": 68,
+      "title_ar": null,
+      "title_en": "Invocations for breaking the fast",
+      "item_count": 2
+    },
+    {
+      "id": 69,
+      "title_ar": null,
+      "title_en": "Invocations before eating",
+      "item_count": 2
+    },
+    {
+      "id": 70,
+      "title_ar": null,
+      "title_en": "Invocations after eating",
+      "item_count": 2
+    },
+    {
+      "id": 71,
+      "title_ar": null,
+      "title_en": "A dinner guest's invocation for his host",
+      "item_count": 1
+    },
+    {
+      "id": 72,
+      "title_ar": null,
+      "title_en": "Invocation for someone who gives you drink or offers it to you",
+      "item_count": 1
+    },
+    {
+      "id": 73,
+      "title_ar": null,
+      "title_en": "Invocation for a family who invites you to break your fast with them",
+      "item_count": 1
+    },
+    {
+      "id": 74,
+      "title_ar": null,
+      "title_en": "Invocation for someone who offers you food when you are fasting, which you decline",
+      "item_count": 1
+    },
+    {
+      "id": 75,
+      "title_ar": null,
+      "title_en": "What to say when you are fasting and someone is rude to you",
+      "item_count": 1
+    },
+    {
+      "id": 76,
+      "title_ar": null,
+      "title_en": "Invocation for when you see the first dates of the season",
+      "item_count": 1
+    },
+    {
+      "id": 77,
+      "title_ar": null,
+      "title_en": "Invocation for sneezing",
+      "item_count": 1
+    },
+    {
+      "id": 78,
+      "title_ar": null,
+      "title_en": "What to say to the disbeliever if he sneezes and praises Allah",
+      "item_count": 1
+    },
+    {
+      "id": 79,
+      "title_ar": null,
+      "title_en": "Invocation for the groom",
+      "item_count": 1
+    },
+    {
+      "id": 80,
+      "title_ar": null,
+      "title_en": "The groom’s supplication on the wedding night or when buying an animal",
+      "item_count": 1
+    },
+    {
+      "id": 81,
+      "title_ar": null,
+      "title_en": "Invocation to be recited before intercourse",
+      "item_count": 1
+    },
+    {
+      "id": 82,
+      "title_ar": null,
+      "title_en": "Invocation for anger",
+      "item_count": 1
+    },
+    {
+      "id": 83,
+      "title_ar": null,
+      "title_en": "What to say if you see someone afflicted by misfortune",
+      "item_count": 1
+    },
+    {
+      "id": 84,
+      "title_ar": null,
+      "title_en": "What to say while sitting in an assembly",
+      "item_count": 1
+    },
+    {
+      "id": 85,
+      "title_ar": null,
+      "title_en": "The Expiation of Assembly - Kaffaratul-Majlis",
+      "item_count": 1
+    },
+    {
+      "id": 86,
+      "title_ar": null,
+      "title_en": "vocation for someone who says: May Allah forgive you",
+      "item_count": 1
+    },
+    {
+      "id": 87,
+      "title_ar": null,
+      "title_en": "Invocation for someone who does good to you",
+      "item_count": 1
+    },
+    {
+      "id": 88,
+      "title_ar": null,
+      "title_en": "Invocation for Allah's protection from the False Messiah",
+      "item_count": 1
+    },
+    {
+      "id": 89,
+      "title_ar": null,
+      "title_en": "Invocation for someone who tells you I love you for the sake of Allah",
+      "item_count": 1
+    },
+    {
+      "id": 90,
+      "title_ar": null,
+      "title_en": "Invocation for someone who offers you a share of his wealth",
+      "item_count": 1
+    },
+    {
+      "id": 91,
+      "title_ar": null,
+      "title_en": "Invocation (upon receipt of the loan) for someone who lends you money",
+      "item_count": 1
+    },
+    {
+      "id": 92,
+      "title_ar": null,
+      "title_en": "Invocation for fear of Shirk",
+      "item_count": 1
+    },
+    {
+      "id": 93,
+      "title_ar": null,
+      "title_en": "Invocation for someone who tells you: May Allah bless you",
+      "item_count": 1
+    },
+    {
+      "id": 94,
+      "title_ar": null,
+      "title_en": "Invocation against evil portent",
+      "item_count": 1
+    },
+    {
+      "id": 95,
+      "title_ar": null,
+      "title_en": "Invocation for riding in a vehicle or on an animal",
+      "item_count": 1
+    },
+    {
+      "id": 96,
+      "title_ar": null,
+      "title_en": "Invocation for traveling",
+      "item_count": 1
+    },
+    {
+      "id": 97,
+      "title_ar": null,
+      "title_en": "Invocation for entering a town or city",
+      "item_count": 1
+    },
+    {
+      "id": 98,
+      "title_ar": null,
+      "title_en": "Invocation for entering a market",
+      "item_count": 1
+    },
+    {
+      "id": 99,
+      "title_ar": null,
+      "title_en": "Invocation for when your vehicle or mount begins to fail",
+      "item_count": 1
+    },
+    {
+      "id": 100,
+      "title_ar": null,
+      "title_en": " The traveler's invocation for the one he leaves behind",
+      "item_count": 1
+    },
+    {
+      "id": 101,
+      "title_ar": null,
+      "title_en": "The resident's invocations for the traveler",
+      "item_count": 2
+    },
+    {
+      "id": 102,
+      "title_ar": null,
+      "title_en": "Glorifying and magnifying Allah on the journey",
+      "item_count": 1
+    },
+    {
+      "id": 103,
+      "title_ar": null,
+      "title_en": "The traveler's invocation at dawn",
+      "item_count": 1
+    },
+    {
+      "id": 104,
+      "title_ar": null,
+      "title_en": "Invocation for a layover (stopping along the way) on the journey",
+      "item_count": 1
+    },
+    {
+      "id": 105,
+      "title_ar": null,
+      "title_en": "What to say upon returning from a Journey",
+      "item_count": 1
+    },
+    {
+      "id": 106,
+      "title_ar": null,
+      "title_en": "What to say if something happens to please you or to displease you",
+      "item_count": 1
+    },
+    {
+      "id": 107,
+      "title_ar": null,
+      "title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+      "item_count": 5
+    },
+    {
+      "id": 108,
+      "title_ar": null,
+      "title_en": "spreading the greetings of Salam (Peace)",
+      "item_count": 3
+    },
+    {
+      "id": 109,
+      "title_ar": null,
+      "title_en": "How to reply to a disbeliever if he says Salam to you",
+      "item_count": 1
+    },
+    {
+      "id": 110,
+      "title_ar": null,
+      "title_en": "Invocation upon hearing the cock's crow or the bray of a donkey",
+      "item_count": 1
+    },
+    {
+      "id": 111,
+      "title_ar": null,
+      "title_en": "Invocation upon hearing a dog barking in the night",
+      "item_count": 1
+    },
+    {
+      "id": 112,
+      "title_ar": null,
+      "title_en": "Invocation for someone you have spoken ill to",
+      "item_count": 1
+    },
+    {
+      "id": 113,
+      "title_ar": null,
+      "title_en": "How a Muslim should praise another Muslim",
+      "item_count": 1
+    },
+    {
+      "id": 114,
+      "title_ar": null,
+      "title_en": "What a Muslim should say when he is praised",
+      "item_count": 1
+    },
+    {
+      "id": 115,
+      "title_ar": null,
+      "title_en": "The pilgrim's announcement of his arrival for Hajj or Umrah",
+      "item_count": 1
+    },
+    {
+      "id": 116,
+      "title_ar": null,
+      "title_en": "Saying Allahu Akbar when passing the Black Stone",
+      "item_count": 1
+    },
+    {
+      "id": 117,
+      "title_ar": null,
+      "title_en": "Invocation to be recited between the Yemenite Corner and the Black Stone",
+      "item_count": 1
+    },
+    {
+      "id": 118,
+      "title_ar": null,
+      "title_en": "Invocation to be recited while standing at Safa and Marwah",
+      "item_count": 1
+    },
+    {
+      "id": 119,
+      "title_ar": null,
+      "title_en": "Invocation to be recited on the Day of Arafat",
+      "item_count": 1
+    },
+    {
+      "id": 120,
+      "title_ar": null,
+      "title_en": "Supplication to be recited at the sacred area of Muzdalifah",
+      "item_count": 1
+    },
+    {
+      "id": 121,
+      "title_ar": null,
+      "title_en": "Saying Allahu Akbar while stoning the three pillars at Mina",
+      "item_count": 1
+    },
+    {
+      "id": 122,
+      "title_ar": null,
+      "title_en": "What to say when surprised or startled",
+      "item_count": 2
+    },
+    {
+      "id": 123,
+      "title_ar": null,
+      "title_en": "What to say when something that pleases you happens",
+      "item_count": 1
+    },
+    {
+      "id": 124,
+      "title_ar": null,
+      "title_en": "What to say when you feel a pain in your body",
+      "item_count": 1
+    },
+    {
+      "id": 125,
+      "title_ar": null,
+      "title_en": "What to say when you fear you may afflict something with the evil eye",
+      "item_count": 1
+    },
+    {
+      "id": 126,
+      "title_ar": null,
+      "title_en": "What to say when you feel frightened",
+      "item_count": 1
+    },
+    {
+      "id": 127,
+      "title_ar": null,
+      "title_en": "What to say when slaughtering or sacrificing an animal",
+      "item_count": 1
+    },
+    {
+      "id": 128,
+      "title_ar": null,
+      "title_en": "What to say to foil the devil's plots",
+      "item_count": 1
+    },
+    {
+      "id": 129,
+      "title_ar": null,
+      "title_en": "Repentance and seeking forgiveness",
+      "item_count": 6
+    },
+    {
+      "id": 130,
+      "title_ar": null,
+      "title_en": "The excellence of remembering Allah",
+      "item_count": 12
+    },
+    {
+      "id": 131,
+      "title_ar": null,
+      "title_en": "How the Prophet glorified Allah",
+      "item_count": 1
+    },
+    {
+      "id": 132,
+      "title_ar": null,
+      "title_en": "Types of goodness and good etiquette for community life",
+      "item_count": 1
+    }
+  ],
+  "meta": {
+    "count": 132
+  }
+}

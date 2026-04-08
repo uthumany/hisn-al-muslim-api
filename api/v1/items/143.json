@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 143",
+  "data": {
+    "id": 143,
+    "chapter_id": 45,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations against the Devil and his promptings",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((الْأَذْكَارُ وَقِرَاءَةُ الْقُرْآنِ)).",
+    "english_text": "(Recitation of the Quran and the authentic texts of remembrance and supplications.)(e.g. ‘Do not make your homes like the graveyards, indeed the devils flee from the house in which soorat Al-Baqarah has been read’ related by Muslim 1/539, also supplication and remembrance for the morning & evening, before sleep, when getting up, entering and leaving the toilet, entering and leaving the mosque, the recitation of ayat Al-kursiyy and the last two verses of soorat Al-Baqarah before sleeping, the athan…etc.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/143.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 3,
+    "created_at": "2026-04-08T00:30:04.447533Z",
+    "updated_at": "2026-04-08T00:30:04.447534Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.786835Z"
+  }
+}

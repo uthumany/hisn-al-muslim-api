@@ -1,0 +1,84 @@
+{
+  "success": true,
+  "message": "Chapter 108",
+  "data": {
+    "id": 108,
+    "title_ar": null,
+    "title_en": "spreading the greetings of Salam (Peace)",
+    "item_count": 3,
+    "items": [
+      {
+        "id": 224,
+        "chapter_id": 108,
+        "chapter_title_ar": null,
+        "chapter_title_en": "spreading the greetings of Salam (Peace)",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: ((لاَ تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلاَ تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلاَ أَدُلُّكُم عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُم، أَفْشُوا السَّلاَمَ بَيْنَكُمْ)).",
+        "english_text": "(The Messenger of Allah  said: ‘You shall not enter paradise until you believe, and you shall not believe until you love one another. Shall I not inform you of something, if you were to act upon it, you will indeed achieve mutual love for one another?  Spread the greeting amongst yourselves.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/224.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447881Z",
+        "updated_at": "2026-04-08T00:30:04.447882Z"
+      },
+      {
+        "id": 225,
+        "chapter_id": 108,
+        "chapter_title_ar": null,
+        "chapter_title_en": "spreading the greetings of Salam (Peace)",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((ثَلاَثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الْإِيمَانَ: الْإِنْصَافُ مِنْ نَفْسِكَ، وَبَذْلُ السَّلاَمِ لِلْعَالَمِ، وَالْإِنْفَاقُ مِنَ الإِقْتَارِ)).",
+        "english_text": "(Aammar  said: ‘Three characteristics, whoever combines them, has completed his faith: to be just, to spread greetings to all people and to spend (charitably) out of the little you have.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/225.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 2,
+        "created_at": "2026-04-08T00:30:04.447886Z",
+        "updated_at": "2026-04-08T00:30:04.447887Z"
+      },
+      {
+        "id": 226,
+        "chapter_id": 108,
+        "chapter_title_ar": null,
+        "chapter_title_en": "spreading the greetings of Salam (Peace)",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا: أنَّ رَجُلاً سَأَلَ النَّبِيَّ صلى الله عليه وسلم أيُّ الْإِسْلاَمِ خَيْرٌ قَالَ: ((تُطْعِمُ الطَّعَامَ، وَتَقْرأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ)).",
+        "english_text": "(Aabdullah Ibn Aamr  reported that a man asked the Prophet : ‘Which Islam is the best?’.  He  replied: Feed (the poor), and greet those whom you know as well as those whom you do not.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": ""
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/226.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 3,
+        "created_at": "2026-04-08T00:30:04.447889Z",
+        "updated_at": "2026-04-08T00:30:04.447890Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 3
+  }
+}

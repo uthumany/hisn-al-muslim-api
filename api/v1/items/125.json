@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 125",
+  "data": {
+    "id": 125,
+    "chapter_id": 35,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for anguish",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُ اللَّهُ رَبِّي لاَ أُشْرِكُ بِهِ شَيْئاً)).",
+    "english_text": "(Allah, Allah is my Lord, I do not associate anything with Him.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(None has the right to be worshipped except You.  How perfect You are, verily I was among the wrong-doers.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/125.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 4,
+    "created_at": "2026-04-08T00:30:04.447464Z",
+    "updated_at": "2026-04-08T00:30:04.447465Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.785549Z"
+  }
+}

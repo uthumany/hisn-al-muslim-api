@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 31",
+  "data": {
+    "id": 31,
+    "chapter_id": 16,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for the beginning of the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُ أَكْبَرُ كَبِيرَاً، اللَّهُ أَكْبَرُ كَبِيراً، اللَّهُ أَكْبَرُ كَبِيراً، وَالْحَمْدُ لِلَّهِ كَثيراً، وَالْحَمْدُ لِلَّهِ كَثيراً، وَالْحَمْدُ لِلَّهِ كَثيراً، وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلاً)) ثَلاثاً ((أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ: مِنْ نَفْخِهِ، وَنَفْثِهِ، وَهَمْزِهِ)).",
+    "english_text": "(Allah is Most Great, Allah is Most Great, Allah is Most Great, much praise is for Allah, much praise is for Allah, much praise is for Allah, and I declare the perfection of Allah in the early morning and in the late afternoon.)(I take refuge with Allah from the devil, from his pride, his poetry and his madness.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahu akbaru kabeera, Allahu akbaru kabeera, Allahu akbaru kabeera, walhamdu lillahi katheera, walhamdu lillahi katheera, walhamdu lillahi katheera, wasubhanal-lahi bukratan wa-aseela.)(aAAoothu billahi minash-shaytani min nafkhihi wanafthihi wahamzih.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/31.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 5,
+    "created_at": "2026-04-08T00:30:04.447237Z",
+    "updated_at": "2026-04-08T00:30:04.447238Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.777221Z"
+  }
+}

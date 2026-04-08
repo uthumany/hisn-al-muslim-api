@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 90",
+  "data": {
+    "id": 90,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((أَصْبَحْنا عَلَى فِطْرَةِ الْإِسْلاَمِ، وَعَلَى كَلِمَةِ الْإِخْلاَصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صلى الله عليه وسلم، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ، حَنِيفاً مُسْلِماً وَمَا كَانَ مِنَ الْمُشرِكِينَ)). [وإذا أمسى قال: أمسينا على فطرة الإسلام...]",
+    "english_text": "(We rise upon the fitrah of Islam, and the word of pure faith, and upon the religion of our Prophet Muhammad  and the religion of our forefather Ibraheem, who was a Muslim and of true faith and was not of those who associate others with Allah.)(fitrah: the religion of Islam, the way of Ibraheem u.)(Note: for the evening, one reads amsayna instead of asbahna.)",
+    "transliteration": "(Asbahna AAala fitratil-islam, waAAala kalimatil-ikhlas, waAAala deeni nabiyyina Muhammad  waAAala millati abeena Ibraheem, haneefan musliman wama kana minal-mushrikeen.)(Note: for the evening, one reads amsayna instead of asbahna.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Asbahna AAala fitratil-islam, waAAala kalimatil-ikhlas, waAAala deeni nabiyyina Muhammad  waAAala millati abeena Ibraheem, haneefan musliman wama kana minal-mushrikeen.)(Note: for the evening, one reads amsayna instead of asbahna.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/90.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 16,
+    "created_at": "2026-04-08T00:30:04.446990Z",
+    "updated_at": "2026-04-08T00:30:04.446991Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.782775Z"
+  }
+}

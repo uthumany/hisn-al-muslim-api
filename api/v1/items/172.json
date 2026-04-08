@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 172",
+  "data": {
+    "id": 172,
+    "chapter_id": 64,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation for when it rains",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ صَيِّباً نَافِعاً)).",
+    "english_text": "(O Allah, may it be a beneficial rain cloud.)",
+    "transliteration": "(Allahumma sayyiban nafiAAa.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma sayyiban nafiAAa.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/172.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447652Z",
+    "updated_at": "2026-04-08T00:30:04.447653Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.789167Z"
+  }
+}

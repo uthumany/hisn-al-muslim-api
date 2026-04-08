@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 239",
+  "data": {
+    "id": 239,
+    "chapter_id": 121,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Saying Allahu Akbar while stoning the three pillars at Mina",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((يُكَبِّرُ كُلَّمَا رَمَى بِحَصَاةٍ عِنْدَ الْجِمَارِ الثَّلاَثِ، ثُمَّ يَتَقَدَّمُ، ويَقِفُ يَدْعُو مُسْتَقْبِلَ الْقِبلَةِ، رَافِعاً يَدَيْهِ بَعْدَ الْجَمْرَةِ الْأُولَى وَالثَّانِيَةِ. أَمَّا جَمْرَةُ الْعَقَبَةِ فَيَرْمِيهَا وَيُكَبِّرُ عِنْدَ كُلِّ حَصَاةٍ وَيَنْصَرِفُ وَلاَ يَقِفُ عِنْدَهَا)).",
+    "english_text": "The Prophet PBUH said Allaahu 'Akbar (Allah is the Most Great) with each pebble he threw at the three pillars. Then he went forward, stood facing the Qiblah and raised his hands and called upon Allah. That was after (stoning) the first and second pillar As for the third, he stoned it and called out Allahu Akbar with every pebble he threw but when he was finished he left without standing at it (for supplications).",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/239.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447944Z",
+    "updated_at": "2026-04-08T00:30:04.447945Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.794523Z"
+  }
+}

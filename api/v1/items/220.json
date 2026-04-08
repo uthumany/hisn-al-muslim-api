@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 220",
+  "data": {
+    "id": 220,
+    "chapter_id": 107,
+    "chapter_title_ar": null,
+    "chapter_title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((لاَ تَجْعَلُوا قَبْرِي عِيداً وَصَلُّوا عَلَيَّ؛ فَإِنَّ صَلاَتَكُم تَبْلُغُنِي حَيْثُ كُنْتُمْ)).",
+    "english_text": "(He (PBUH) also said: ‘Do not take my grave as a place of habitual ceremony.  Send prayers upon me, for verily your prayers reach me wherever you are.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/220.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447868Z",
+    "updated_at": "2026-04-08T00:30:04.447869Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.792923Z"
+  }
+}

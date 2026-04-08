@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 94",
+  "data": {
+    "id": 94,
+    "title_ar": null,
+    "title_en": "Invocation against evil portent",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 205,
+        "chapter_id": 94,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation against evil portent",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ لاَ طَيْرَ إِلاَّ طَيْرُكَ، وَلاَ خَيْرَ إِلاَّ خَيْرُكَ، وَلاَ إِلَهَ غَيْرُكَ)).",
+        "english_text": "(This supplication is used whenever one initially thinks a casual event or occurrence to foretell good or evil, using it as a basis to determine which action he should undertake, but he then denounces such a link, relies on Allah and then says this supplication as an expiation for this act, since it falls under the category of shirk.)(O Allah, there is no omen but there is reliance on You, there is no good except Your good and none has the right to be worshipped except You.)",
+        "transliteration": "(This supplication is used whenever one initially thinks a casual event or occurrence to foretell good or evil, using it as a basis to determine which action he should undertake, but he then denounces such a link, relies on Allah and then says this supplication as an expiation for this act, since it falls under the category of shirk.)(Allahumma la tayra illa tayruk, wala khayra illa khayruk, wala ilaha ghayruk.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(This supplication is used whenever one initially thinks a casual event or occurrence to foretell good or evil, using it as a basis to determine which action he should undertake, but he then denounces such a link, relies on Allah and then says this supplication as an expiation for this act, since it falls under the category of shirk.)(Allahumma la tayra illa tayruk, wala khayra illa khayruk, wala ilaha ghayruk.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/205.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447805Z",
+        "updated_at": "2026-04-08T00:30:04.447807Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

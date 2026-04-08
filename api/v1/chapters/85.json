@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 85",
+  "data": {
+    "id": 85,
+    "title_ar": null,
+    "title_en": "The Expiation of Assembly - Kaffaratul-Majlis",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 196,
+        "chapter_id": 85,
+        "chapter_title_ar": null,
+        "chapter_title_en": "The Expiation of Assembly - Kaffaratul-Majlis",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ)).",
+        "english_text": "(How perfect You are O Allah, and I praise You.  I bear witness that None has the right to be worshipped except You.  I seek Your forgiveness and turn to You in repentance.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subhanakal-lahumma wabihamdik, ashhadu an la ilaha illa ant, astaghfiruka wa-atoobu ilayk.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/196.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447767Z",
+        "updated_at": "2026-04-08T00:30:04.447768Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

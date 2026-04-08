@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 181",
+  "data": {
+    "id": 181,
+    "chapter_id": 70,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations after eating",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((الْحَمْدُ لِلَّهِ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ، غَيْرَ [مَكْفِيٍّ وَلاَ ] مُوَدَّعٍ، وَلاَ مُسْتَغْنَىً عَنْهُ رَبَّنَا)).",
+    "english_text": "(Allah be praised with an abundant beautiful blessed praise, a never-ending praise, a praise which we will never bid farewell to and an indispensable praise, He is our Lord.)(There are other views as regards to the understanding of this supplication, from them: Allah be praised with an abundant beautiful blessed praise. He is The One Who is sufficient, feeds and is not fed. The One Who is longed for, along with that which is with Him and The One Who is needed, He is our Lord.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Alhamdu lillahi hamdan katheeran tayyiban mubarakan feeh, ghayra makfiyyin wala muwaddaAAin, wala mustaghnan AAanhu rabbuna.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/181.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447705Z",
+    "updated_at": "2026-04-08T00:30:04.447706Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.789825Z"
+  }
+}

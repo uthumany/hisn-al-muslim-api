@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 87",
+  "data": {
+    "id": 87,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((رَضِيتُ بِاللَّهِ رَبَّاً، وَبِالْإِسْلاَمِ دِيناً، وَبِمُحَمَّدٍ صلى الله عليه وسلم نَبِيّاً)) (ثلاثَ مرَّاتٍ).",
+    "english_text": "(I am pleased with Allah as a Lord, and Islam as a religion and Muhammad  as a Prophet.’(three times))",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Radeetu billahi rabban wabil-islami deenan wabiMuhammadin  nabiyya. (three times))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/87.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 13,
+    "created_at": "2026-04-08T00:30:04.446978Z",
+    "updated_at": "2026-04-08T00:30:04.446979Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.782541Z"
+  }
+}

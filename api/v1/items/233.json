@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 233",
+  "data": {
+    "id": 233,
+    "chapter_id": 115,
+    "chapter_title_ar": null,
+    "chapter_title_en": "The pilgrim's announcement of his arrival for Hajj or Umrah",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ، وَالنِّعْمَةَ، لَكَ وَالْمُلْكَ، لاَ شَرِيكَ لَكَ)).",
+    "english_text": "(Here I am O Allah, (in response to Your call), here I am. Here I am, You have no partner, here I am.  Verily all praise, grace and sovereignty belong to You. You have no partner.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Labbaykal-lahumma labbayk, labbayka la shareeka laka labbayk, innal-hamda wanniAAmata laka walmulk, la shareeka lak.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/233.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447918Z",
+    "updated_at": "2026-04-08T00:30:04.447919Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.794001Z"
+  }
+}

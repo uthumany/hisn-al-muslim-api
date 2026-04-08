@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 102",
+  "data": {
+    "id": 102,
+    "chapter_id": 28,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say before sleeping",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فَإِن أَمْسَكْتَ نَفْسِي فارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ)).",
+    "english_text": "(In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Bismika rabbee wadaAAtu janbee wabika arfaAAuh, fa-in amsakta nafsee farhamha, wa-in arsaltaha fahfathha bima tahfathu bihi AAibadakas-saliheen.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/102.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 4,
+    "created_at": "2026-04-08T00:30:04.447050Z",
+    "updated_at": "2026-04-08T00:30:04.447051Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.783732Z"
+  }
+}

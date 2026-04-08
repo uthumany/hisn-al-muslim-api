@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 7",
+  "data": {
+    "id": 7,
+    "title_ar": null,
+    "title_en": "Invocation for leaving the restroom",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 11,
+        "chapter_id": 7,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation for leaving the restroom",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "(غُفْرَانَكَ).",
+        "english_text": "(I ask You (Allah) for forgiveness.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Ghufranak.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/11.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447109Z",
+        "updated_at": "2026-04-08T00:30:04.447110Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 104",
+  "data": {
+    "id": 104,
+    "title_ar": null,
+    "title_en": "Invocation for a layover (stopping along the way) on the journey",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 216,
+        "chapter_id": 104,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation for a layover (stopping along the way) on the journey",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ)).",
+        "english_text": "(I take refuge in Allah’s perfect words from the evil that He has created.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(aAAoothu bikalimatil-lahit-tammati min sharri ma khalaq.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/216.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447852Z",
+        "updated_at": "2026-04-08T00:30:04.447854Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

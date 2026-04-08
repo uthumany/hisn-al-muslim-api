@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 78",
+  "data": {
+    "id": 78,
+    "title_ar": null,
+    "title_en": "What to say to the disbeliever if he sneezes and praises Allah",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 189,
+        "chapter_id": 78,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say to the disbeliever if he sneezes and praises Allah",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ)).",
+        "english_text": "(May Allah guide you and rectify your condition.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Yahdeekum wayuslihu balakum.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/189.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447736Z",
+        "updated_at": "2026-04-08T00:30:04.447737Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 179",
+  "data": {
+    "id": 179,
+    "chapter_id": 69,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations before eating",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((مَنْ أَطْعَمَهُ اللَّهُ الطَّعَامَ فَلْيَقُلْ: اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَأَطْعِمْنَا خَيْراً مِنْهُ، وَمَنْ سَقَاهُ اللَّهُ لَبَناً فَلْيَقُلْ اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ)).",
+    "english_text": "(Whomever Allah feeds, should say:(O Allah, bless it for us and feed us better than it.) and whomever Allah gives milk to drink should say:(O Allah, bless it for usand give us more of it.))",
+    "transliteration": "(Whomever Allah feeds, should say:(Allahumma barik lana feehi wa-atAAimna khayran minh.) and whomever Allah gives milk to drink should say:(Allahumma barik lana feehi wazidna minh.))",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Whomever Allah feeds, should say:(Allahumma barik lana feehi wa-atAAimna khayran minh.) and whomever Allah gives milk to drink should say:(Allahumma barik lana feehi wazidna minh.))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/179.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447695Z",
+    "updated_at": "2026-04-08T00:30:04.447697Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.789679Z"
+  }
+}

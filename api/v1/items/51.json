@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 51",
+  "data": {
+    "id": 51,
+    "chapter_id": 21,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Supplications for prostrating due to recitation of the Qur'an",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْراً، وَضَعْ عَنِّي بِهَا وِزْراً، وَاجْعَلْهَا لِي عِنْدَكَ ذُخْراً، وَتَقَبَّلْهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ)).",
+    "english_text": "(O Allah, record for me a reward for this (prostration), and remove from me a sin.  Save it for me and accept it from me just as You had accepted it from Your servant Dawood.)",
+    "transliteration": "(Allahummak-tub lee biha  AAindaka ajra, wadaAA  AAannee biha wizra, wajAAalha lee AAindaka thukhra, wataqabbalha minnee kama taqabbaltaha min AAabdika Dawood.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahummak-tub lee biha  AAindaka ajra, wadaAA  AAannee biha wizra, wajAAalha lee AAindaka thukhra, wataqabbalha minnee kama taqabbaltaha min AAabdika Dawood.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/51.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447316Z",
+    "updated_at": "2026-04-08T00:30:04.447317Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.778968Z"
+  }
+}

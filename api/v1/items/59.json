@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 59",
+  "data": {
+    "id": 59,
+    "chapter_id": 24,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations after the final Tash-ahhud and before ending the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبادَتِكَ)).",
+    "english_text": "(O Allah, help me to remember You, to thank You, and to worship You in the best of manners.)",
+    "transliteration": "(Allahumma aAAinnee AAala thikrik, washukrik, wahusni AAibadatik.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma aAAinnee AAala thikrik, washukrik, wahusni AAibadatik.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/59.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 5,
+    "created_at": "2026-04-08T00:30:04.447347Z",
+    "updated_at": "2026-04-08T00:30:04.447348Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.780109Z"
+  }
+}

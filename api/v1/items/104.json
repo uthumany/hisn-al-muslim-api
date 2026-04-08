@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 104",
+  "data": {
+    "id": 104,
+    "chapter_id": 28,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say before sleeping",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": " ((اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ)).",
+    "english_text": "(O Allah, protect me from Your punishment on the day Your servants are resurrected.)",
+    "transliteration": "(Allahumma qinee AAathabaka yawma tabAAathu AAibadak.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma qinee AAathabaka yawma tabAAathu AAibadak.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/104.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 6,
+    "created_at": "2026-04-08T00:30:04.447057Z",
+    "updated_at": "2026-04-08T00:30:04.447059Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.783880Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "API Metadata",
+  "data": {
+    "total_items": 267,
+    "total_chapters": 132,
+    "source": "Hisn al-Muslim"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.797072Z"
+  }
+}

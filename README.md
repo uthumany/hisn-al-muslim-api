@@ -15,16 +15,17 @@ A clean, production-ready JSON API for the book **“Hisn al-Muslim / Fortress o
 
 ## Tech Stack
 
-- **Framework**: Node.js with Express
+- **Framework**: Node.js with Express (for dynamic API, though static version is deployed)
 - **Middleware**: Helmet (security), CORS, Morgan (logging)
 - **Testing**: Jest & Supertest
 - **Documentation**: OpenAPI 3.0 (Swagger)
+- **Static Hosting**: GitHub Pages
 
-## Installation
+## Installation (Dynamic API - for local development)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hisn-al-muslim-api.git
+   git clone https://github.com/uthumany/hisn-al-muslim-api.git
    cd hisn-al-muslim-api
    ```
 
@@ -47,23 +48,19 @@ A clean, production-ready JSON API for the book **“Hisn al-Muslim / Fortress o
    npm run dev
    ```
 
-## API Endpoints
+## Static API Endpoints (GitHub Pages)
 
-### Base URL
-The API is accessible at `http://localhost:3000/api/v1` (default).
+This API is statically hosted on GitHub Pages, providing direct JSON responses for easy consumption. The base URL for the static API is `https://uthumany.github.io/hisn-al-muslim-api/api/v1/`.
 
-| Endpoint | Method | Description |
+| Endpoint | Description | Example Link |
 | :--- | :--- | :--- |
-| `/` | GET | API Overview and metadata |
-| `/health` | GET | Service status and health check |
-| `/api/v1/chapters` | GET | Returns all chapters ordered by ID |
-| `/api/v1/chapters/:id` | GET | Returns a single chapter with its items |
-| `/api/v1/items` | GET | Returns all items with pagination (`?page=1&limit=20`) |
-| `/api/v1/items/:id` | GET | Returns a single record by ID |
-| `/api/v1/search?q=` | GET | Searches text, transliteration, and chapters |
-| `/api/v1/random` | GET | Returns one random item |
-| `/api/v1/audio/:id` | GET | Returns audio metadata for the requested item |
-| `/api/v1/meta` | GET | Returns dataset statistics and counts |
+| `/` | API Overview and metadata | [https://uthumany.github.io/hisn-al-muslim-api/api/v1/index.json](https://uthumany.github.io/hisn-al-muslim-api/api/v1/index.json) |
+| `/chapters` | Returns all chapters ordered by ID | [https://uthumany.github.io/hisn-al-muslim-api/api/v1/chapters.json](https://uthumany.github.io/hisn-al-muslim-api/api/v1/chapters.json) |
+| `/chapters/:id` | Returns a single chapter with its items | [https://uthumany.github.io/hisn-al-muslim-api/api/v1/chapters/1.json](https://uthumany.github.io/hisn-al-muslim-api/api/v1/chapters/1.json) |
+| `/items` | Returns all items (first page, limit 20) | [https://uthumany.github.io/hisn-al-muslim-api/api/v1/items.json](https://uthumany.github.io/hisn-al-muslim-api/api/v1/items.json) |
+| `/items/:id` | Returns a single record by ID | [https://uthumany.github.io/hisn-al-muslim-api/api/v1/items/1.json](https://uthumany.github.io/hisn-al-muslim-api/api/v1/items/1.json) |
+| `/random` | Returns one random item (static snapshot) | [https://uthumany.github.io/hisn-al-muslim-api/api/v1/random.json](https://uthumany.github.io/hisn-al-muslim-api/api/v1/random.json) |
+| `/meta` | Returns dataset statistics and counts | [https://uthumany.github.io/hisn-al-muslim-api/api/v1/meta.json](https://uthumany.github.io/hisn-al-muslim-api/api/v1/meta.json) |
 
 ## Response Format
 

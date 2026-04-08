@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 255",
+  "data": {
+    "id": 255,
+    "chapter_id": 130,
+    "chapter_title_ar": null,
+    "chapter_title_en": "The excellence of remembering Allah",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ عَشْرَ مِرَارٍ، كَانَ كَمَنْ أَعْتَقَ أَرْبَعَةَ أَنْفُسٍ مِنْ وَلَدِ إِسْمَاعِيلَ)).",
+    "english_text": "(Abu Hurayrah  reported that the Messenger of Allah  said: ‘Whoever says: (None has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise and He is over all things omnipotent.) a hundred times during the day, has the reward of freeing ten slaves, a hundred good deeds are recorded for him and a hundred bad deeds are wiped away and he has gained refuge from the devil that day until evening and none shall come with anything better except someone who has done more.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Abu Hurayrah  reported that the Messenger of Allah  said: ‘Whoever says: (La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shayin qadeer.) a hundred times during the day, has the reward of freeing ten slaves, a hundred good deeds are recorded for him and a hundred bad deeds are wiped away and he has gained refuge from the devil that day until evening and none shall come with anything better except someone who has done more.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/255.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.448030Z",
+    "updated_at": "2026-04-08T00:30:04.448032Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.795871Z"
+  }
+}

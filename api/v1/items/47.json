@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 47",
+  "data": {
+    "id": 47,
+    "chapter_id": 19,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations during Sujood",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ)).",
+    "english_text": "(O Allah, I take refuge within Your pleasure from Your displeasure and within Your pardon from Your punishment, and I take refuge in You from You. I cannot enumerate Your praise, You are as You have praised Yourself.)",
+    "transliteration": "(Allahumma innee aAAoothu biridaka min sakhatik, wa-bimuAAafatika min AAuqoobatik, wa-aAAoothu bika mink, la ohsee thana-an AAalayk, anta kama athnayta AAala nafsik.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma innee aAAoothu biridaka min sakhatik, wa-bimuAAafatika min AAuqoobatik, wa-aAAoothu bika mink, la ohsee thana-an AAalayk, anta kama athnayta AAala nafsik.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/47.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 7,
+    "created_at": "2026-04-08T00:30:04.447299Z",
+    "updated_at": "2026-04-08T00:30:04.447301Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.778686Z"
+  }
+}

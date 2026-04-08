@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 188",
+  "data": {
+    "id": 188,
+    "chapter_id": 77,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation for sneezing",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((إِذَا عَطَسَ أَحَدُكُم فَلْيَقُلِ الْحَمْدُ لِلَّهِ، وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِبُهُ: يَرْحَمُكَ اللَّهُ، فَإِذَا قَالَ لَهُ: يَرحَمُكَ اللَّهُ، فَلْيَقُلْ: يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ)).",
+    "english_text": "(When one of you sneezes he should say:(All praise if for Allah.) and his brother or companion should say to him: (May Allah have mercy upon you.) and he (i.e. the one who sneezed) replies back to him:(May Allah guide you and rectify your condition.))",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(When one of you sneezes he should say:(Alhamdu lillah.) and his brother or companion should say to him: (Yarhamukal-lah.) and he (i.e. the one who sneezed) replies back to him:(Yahdeekumul-lahu wayuslihu balakum.))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/188.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447732Z",
+    "updated_at": "2026-04-08T00:30:04.447734Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.790322Z"
+  }
+}

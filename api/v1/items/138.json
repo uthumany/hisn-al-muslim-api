@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 138",
+  "data": {
+    "id": 138,
+    "chapter_id": 42,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation against the distractions of Satan during the prayer and recitation of the Quran",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ، وَاتْفُلْ عَلَى يَسَارِكَ (ثلاثاً))).",
+    "english_text": "(othman Ibn Al-AAas  narrated: I said ‘O Messenger of Allah, verily the devil comes between me and my prayer and recitation making me confused’ The Messenger of Allah  replied ‘That is a devil called Khanzab, so if you sense his presence then seek refuge in Allah from him and spit (A form of spitting comprising mainly of air with little spittle) on your left side three times.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/138.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447516Z",
+    "updated_at": "2026-04-08T00:30:04.447517Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.786478Z"
+  }
+}

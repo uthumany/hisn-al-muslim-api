@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 28",
+  "data": {
+    "id": 28,
+    "chapter_id": 16,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for the beginning of the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((سُبْحانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ إِلَهَ غَيْرُكَ)).",
+    "english_text": "(How perfect You are O Allah, and I praise You.  Blessed be Your name, and lofty is Your position and none has the right to be worshipped except You.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Subhanakal-lahumma wabihamdika watabarakas-muka wataAAala jadduka wala ilaha ghayruk.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/28.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447200Z",
+    "updated_at": "2026-04-08T00:30:04.447201Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.776917Z"
+  }
+}

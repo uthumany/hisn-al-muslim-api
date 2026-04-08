@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 1",
+  "data": {
+    "id": 1,
+    "chapter_id": 1,
+    "chapter_title_ar": null,
+    "chapter_title_en": "supplications for when you wake up",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "(.الْحَمْدُ للَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ )",
+    "english_text": "(All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Alhamdu lillahil-lathee ahyana baAAda ma amatana wa-ilayhin-nushoor.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/1.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447090Z",
+    "updated_at": "2026-04-08T00:30:04.447092Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.774718Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 39",
+  "data": {
+    "id": 39,
+    "title_ar": null,
+    "title_en": "What to say if you fear people may harm you",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 132,
+        "chapter_id": 39,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say if you fear people may harm you",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ اكْفِنِيهِمْ بِمَا شِئْتَ)).",
+        "english_text": "(O Allah, protect me from them with what You choose.)",
+        "transliteration": "(Allahummak-fineehim bima shi/.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahummak-fineehim bima shi/.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/132.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447493Z",
+        "updated_at": "2026-04-08T00:30:04.447494Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

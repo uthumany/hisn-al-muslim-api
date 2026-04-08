@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 26",
+  "data": {
+    "id": 26,
+    "chapter_id": 15,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say upon hearing the Athan (call to prayer)",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((يَدْعُو لِنَفسِهِ بَيْنَ الْأَذَانِ وَالْإِقَامَةِ فَإِنَّ الدُّعَاءَ حِينَئِذٍ لاَ يُرَدُّ)).",
+    "english_text": "One should also supplicate for himself during the time between the athan and the iqamah as supplication at such time is not rejected.",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/26.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 5,
+    "created_at": "2026-04-08T00:30:04.447171Z",
+    "updated_at": "2026-04-08T00:30:04.447172Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.776693Z"
+  }
+}

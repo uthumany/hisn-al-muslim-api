@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 91",
+  "data": {
+    "id": 91,
+    "title_ar": null,
+    "title_en": "Invocation (upon receipt of the loan) for someone who lends you money",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 202,
+        "chapter_id": 91,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation (upon receipt of the loan) for someone who lends you money",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((بارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالأَدَاءُ)).",
+        "english_text": "(May Allah bless for you, your family and wealth. Surely commendation and payment are the reward for a loan.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Barakal-lahu laka fee ahlika wamalik, innama jaza-os-salafil-hamdu wal-ada'.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/202.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447789Z",
+        "updated_at": "2026-04-08T00:30:04.447791Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

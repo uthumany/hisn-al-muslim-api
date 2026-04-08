@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 32",
+  "data": {
+    "id": 32,
+    "chapter_id": 16,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for the beginning of the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ لَكَ الْحَمْدُ، أَنْتَ نُورُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، [وَلَكَ الْحَمْدُ أَنْتَ رَبُّ السَّمَواتِ وَالأَرْضِ وَمَنْ فِيهِنَّ] [وَلَكَ الْحَمْدُ لَكَ مُلْكُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ] [وَلَكَ الْحَمْدُ أَنْتَ مَلِكُ السَّمَوَاتِ وَالأَرْضِ] [وَلَكَ الْحَمْدُ] [أَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَقَوْلُكَ الْحَقُّ، وَلِقاؤُكَ الْحَقُّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَمحَمَّدٌ صلى الله عليه وسلم حَقٌّ، وَالسّاعَةُ حَقٌّ] [اللَّهُمَّ لَكَ أَسْلَمتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَبِكَ آمَنْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خاصَمْتُ، وَإِلَيْكَ حاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ، وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ، وَمَا أَعْلَنْتُ] [وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي] [أَنْتَ المُقَدِّمُ، وَأَنْتَ المُؤَخِّرُ لاَ إِلَهَ إِلاَّ أَنْتَ] [أَنْتَ إِلَهِي لاَ إِلَهَ إِلاَّ أَنْتَ] [وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ])).",
+    "english_text": "(O Allah, to You belongs all praise, You are the Light of the heavens and the Earth and all that is within them.  To You belongs all praise, You are the Sustainer of the heavens and the Earth and all that is within them.  To You belongs all praise.  You are Lord of the heavens and the Earth and all that is within them.  To You belongs all praise and the kingdom of the heavens and the Earth and all that is within them.  To You belongs all praise, You are the King of the heavens and the Earth and to You belongs all praise. You are The Truth, Your promise is true, your Word is true, and the Day in which we will encounter You is true, the Garden of Paradise is true and the Fire is true, and the Prophets are true, Muhammad  is true and the Final Hour is true.  O Allah, unto You I have submitted, and upon You I have relied, and in You I have believed, and to You I have turned in repentance, and over You I have disputed, and to You I have turned for judgment.  So forgive me for what has come to pass of my sins and what will come to pass, and what I have hidden and what I have made public.  You are Al-Muqaddim and Al-Mu-akhkhir. None has the right to be worshipped except You, You are my Deity, none has the right to be worshipped except You.)(Meaning of Al-Muqaddim and Al-Mu-akhkhir: Allah puts forward and favours whom He wills from amongst His creation just as He defers and holds back whom He wills in accordance to His wisdom.  E.g. Favouring man over the rest of creation, favouring the Prophets over the rest of mankind, favouring Muhammad  over all the Prophets and Messengers…etc.)",
+    "transliteration": "(Allahumma lakal-hamd anta noorus-samawati wal-ardi waman feehin, walakal-hamd, anta qayyimus-samawati walardi waman feehin, [walakal-hamd, anta rabbus-samawati walardi waman feehin], [walakal-hamd, laka mulkus-samawati walardi waman feehin] [walakal-hamd, anta malikus-samawati walard] [walakal-hamd] [antal-haq, wawaAAdukal-haq, waqawlukal-haq, waliqa-okal-haq, waljannatu haq wannaru haq, wannabiyyoona haq, wa Muhammadun  haq, wassaAAatu haq] [allahumma laka aslamt, waAAalayka tawakkalt, wabika amant, wa-ilayka anabt, wabika khasamt, wa-ilayka hakamt, faghfir lee ma qaddamt, wama akhkhart, wama asrart, wama aAAlant] [antal-muqaddim, wa-antal-mu-akhkhir, la ilaha illa ant] [anta ilahee la ilaha illa ant .)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma lakal-hamd anta noorus-samawati wal-ardi waman feehin, walakal-hamd, anta qayyimus-samawati walardi waman feehin, [walakal-hamd, anta rabbus-samawati walardi waman feehin], [walakal-hamd, laka mulkus-samawati walardi waman feehin] [walakal-hamd, anta malikus-samawati walard] [walakal-hamd] [antal-haq, wawaAAdukal-haq, waqawlukal-haq, waliqa-okal-haq, waljannatu haq wannaru haq, wannabiyyoona haq, wa Muhammadun  haq, wassaAAatu haq] [allahumma laka aslamt, waAAalayka tawakkalt, wabika amant, wa-ilayka anabt, wabika khasamt, wa-ilayka hakamt, faghfir lee ma qaddamt, wama akhkhart, wama asrart, wama aAAlant] [antal-muqaddim, wa-antal-mu-akhkhir, la ilaha illa ant] [anta ilahee la ilaha illa ant .)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/32.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 6,
+    "created_at": "2026-04-08T00:30:04.447243Z",
+    "updated_at": "2026-04-08T00:30:04.447245Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.777326Z"
+  }
+}

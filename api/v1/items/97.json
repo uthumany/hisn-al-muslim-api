@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 97",
+  "data": {
+    "id": 97,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ)) (ثلاثَ مرَّاتٍ إذا أمسى).",
+    "english_text": "(I take refuge in Allah’s perfect words from the evil He has created.)(three times in the evening)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(aAAoothu bikalimatil-lahit-tammati min sharri ma khalaq.) (three times in the evening)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/97.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 23,
+    "created_at": "2026-04-08T00:30:04.447030Z",
+    "updated_at": "2026-04-08T00:30:04.447031Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.783262Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 46",
+  "data": {
+    "id": 46,
+    "title_ar": null,
+    "title_en": "Invocation for when something you dislike happens, or for when you fail to achieve what you attempt to do",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 144,
+        "chapter_id": 46,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation for when something you dislike happens, or for when you fail to achieve what you attempt to do",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((قَدَرُ اللَّهُ وَمَا شَاءَ فَعَلَ)).",
+        "english_text": "(Allah has decreed and what He wills, He does.)(for verily ‘If’ lets in the work of the devil.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Qaddaral-lah, wama shaa faAAal.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/144.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447537Z",
+        "updated_at": "2026-04-08T00:30:04.447538Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

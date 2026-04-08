@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "message": "Chapter 21",
+  "data": {
+    "id": 21,
+    "title_ar": null,
+    "title_en": "Supplications for prostrating due to recitation of the Qur'an",
+    "item_count": 2,
+    "items": [
+      {
+        "id": 50,
+        "chapter_id": 21,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Supplications for prostrating due to recitation of the Qur'an",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سَجَدَ وَجْهِيَ لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ، ﴿فَتَبارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ)).",
+        "english_text": "(My face fell prostrate before He who created it and brought forth its faculties of hearing and seeing by His might and power.<< So Blessed is Allah, the best of creators.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Sajada wajhee lillathee khalaqahu washaqqa samAAahu wabasarahu bihawlihi waquwwatih  { tabaraka Allahu ahsanu alkhaliqeen}.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/50.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447313Z",
+        "updated_at": "2026-04-08T00:30:04.447314Z"
+      },
+      {
+        "id": 51,
+        "chapter_id": 21,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Supplications for prostrating due to recitation of the Qur'an",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْراً، وَضَعْ عَنِّي بِهَا وِزْراً، وَاجْعَلْهَا لِي عِنْدَكَ ذُخْراً، وَتَقَبَّلْهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ)).",
+        "english_text": "(O Allah, record for me a reward for this (prostration), and remove from me a sin.  Save it for me and accept it from me just as You had accepted it from Your servant Dawood.)",
+        "transliteration": "(Allahummak-tub lee biha  AAindaka ajra, wadaAA  AAannee biha wizra, wajAAalha lee AAindaka thukhra, wataqabbalha minnee kama taqabbaltaha min AAabdika Dawood.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahummak-tub lee biha  AAindaka ajra, wadaAA  AAannee biha wizra, wajAAalha lee AAindaka thukhra, wataqabbalha minnee kama taqabbaltaha min AAabdika Dawood.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/51.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 2,
+        "created_at": "2026-04-08T00:30:04.447316Z",
+        "updated_at": "2026-04-08T00:30:04.447317Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 2
+  }
+}

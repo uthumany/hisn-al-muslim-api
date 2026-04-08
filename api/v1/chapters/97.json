@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 97",
+  "data": {
+    "id": 97,
+    "title_ar": null,
+    "title_en": "Invocation for entering a town or city",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 208,
+        "chapter_id": 97,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation for entering a town or city",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الأَرَضِينَ السَّبْعِ وَمَا أَقْلَلْنَ، وَرَبَّ الشَّياطِينِ وَمَا أَضْلَلْنَ، وَرَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ، وَخَيْرَ أَهْلِهَا، وَخَيْرَ مَا فِيهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ أَهْلِهَا، وَشَرِّ مَا فِيهَا)).",
+        "english_text": "(O Allah, Lord of the seven heavens and all that they envelop, Lord of the seven earths and all that they carry, Lord of the devils and all whom they misguide, Lord of the winds and all whom they whisk away. I ask You for the goodness of this village, the goodness of its inhabitants and for all the goodness found within it and I take refuge with You from the evil of this village, the evil of its inhabitants and from all the evil found within it.)",
+        "transliteration": "(Allahumma rabbas-samawatis-sabAAi wama athlaln, warabbal-aradeenas-sabAAi wama aqlaln, warabbash-shayateeni wama adlaln, warabbar-riyahi wama tharayn, as-aluka khayra hathihil-qaryah, wakhayra ahlilha wakhayra ma feeha, wa-aAAoothu bika min sharriha washarri ahliha, washarri ma feeha.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahumma rabbas-samawatis-sabAAi wama athlaln, warabbal-aradeenas-sabAAi wama aqlaln, warabbash-shayateeni wama adlaln, warabbar-riyahi wama tharayn, as-aluka khayra hathihil-qaryah, wakhayra ahlilha wakhayra ma feeha, wa-aAAoothu bika min sharriha washarri ahliha, washarri ma feeha.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/208.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447819Z",
+        "updated_at": "2026-04-08T00:30:04.447820Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

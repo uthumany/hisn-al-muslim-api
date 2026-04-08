@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 238",
+  "data": {
+    "id": 238,
+    "chapter_id": 120,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Supplication to be recited at the sacred area of Muzdalifah",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "رَكِبَ النَّبِيُّ صلى الله عليه وسلم الْقَصْوَاءَ حَتَّى أَتَى الْمَشْعَرَ الْحَرَامَ فَاسْتَقْبَلَ الْقِبْلَةَ (فَدَعَاهُ، وَكَبَّرَهُ، وَهَللَّهُ، وَوَحَّدَهُ) فَلَمْ يَزَلْ وَاقِفاً حَتَّى أَسْفَرَ جِدَّاً فَدَفَعَ قَبْلَ أَنْ تَطْلُعَ الشَّمسُ.",
+    "english_text": "The Prophet rode his camel, Al-Qaswa, until he reached the sacred area (Al-Mash aril Haraam). Then he faced the Qiblah and invoked Allah, and repeatedly said the words: Allaahu Akbar (Allah is the Most Great), Allaahu Ahad (Allah is One) and Laa ilaaha illallaah (There is none worthy of worship but Allah). He remained stationary until the sky became yellow with the dawn, and then pressed on before sunrise.",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/238.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447941Z",
+    "updated_at": "2026-04-08T00:30:04.447942Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.794447Z"
+  }
+}

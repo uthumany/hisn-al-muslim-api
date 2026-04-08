@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 127",
+  "data": {
+    "id": 127,
+    "title_ar": null,
+    "title_en": "What to say when slaughtering or sacrificing an animal",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 246,
+        "chapter_id": 127,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say when slaughtering or sacrificing an animal",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ [اللَّهُمَّ مِنْكَ وَلَكَ] اللَّهُمَّ تَقَبَّلْ مِنِّي)).",
+        "english_text": "(In the name of Allah, and Allah is the greatest.  O Allah, (it is) from You and belongs to You, O Allah, accept this from me.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Bismil-lah wallahu akbar, allahumma minka walak, allahumma taqabbal  minnee.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/246.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447995Z",
+        "updated_at": "2026-04-08T00:30:04.447996Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

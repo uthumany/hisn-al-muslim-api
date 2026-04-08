@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 159",
+  "data": {
+    "id": 159,
+    "chapter_id": 55,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for the dead in the Funeral prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ احْتَاجَ إِلَى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ، إِنْ كَانَ مُحْسِناً فَزِدْ فِي حَسَنَاتِهِ، وَإِنْ كَانَ مُسِيئاً فَتَجَاوَزْ عَنْهُ)).",
+    "english_text": "(O Allah, Your servant and the son of Your maidservant is in need of Your mercy and You are without need of his punishment. If he was righteous then increase his reward and if he was wicked then look over his sins.)",
+    "transliteration": "(Allahumma AAabduka wabnu amatik, ihtaja ila rahmatik, wa-anta ghaniyyun AAan AAathabih, in kana muhsinan fazid fee hasanatih, wa-in kana museean fatajawaz AAanh.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma AAabduka wabnu amatik, ihtaja ila rahmatik, wa-anta ghaniyyun AAan AAathabih, in kana muhsinan fazid fee hasanatih, wa-in kana museean fatajawaz AAanh.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/159.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 4,
+    "created_at": "2026-04-08T00:30:04.447601Z",
+    "updated_at": "2026-04-08T00:30:04.447602Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.788117Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 81",
+  "data": {
+    "id": 81,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لاَ شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ)). [وإذا أمسى قال: اللَّهم ما أمسى بي...]",
+    "english_text": "(O Allah, what blessing I or any of Your creation have risen upon, is from You alone, without partner, so for You is all praise and unto You all thanks.)(…whoever says this in the morning has indeed offered his day’s thanks and whoever says this in the evening has indeed offered his night’s thanks.)(Note: for the evening, one reads (amsa) instead of (asbaha).)",
+    "transliteration": "(Allahumma ma asbaha bee min niAAmatin, aw bi-ahadin min khalqik, faminka wahdaka la shareeka lak, falakal-hamdu walakash-shukr.)(Note: for the evening, one reads (amsa) instead of (asbaha).)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma ma asbaha bee min niAAmatin, aw bi-ahadin min khalqik, faminka wahdaka la shareeka lak, falakal-hamdu walakash-shukr.)(Note: for the evening, one reads (amsa) instead of (asbaha).)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/81.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 7,
+    "created_at": "2026-04-08T00:30:04.446944Z",
+    "updated_at": "2026-04-08T00:30:04.446945Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.782086Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 16",
+  "data": {
+    "id": 16,
+    "chapter_id": 10,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say when leaving the home",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "(بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، وَلَاَ حَوْلَ وَلَا قُوَّةَ إِلاَّ بِاللَّهِ).",
+    "english_text": "(In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Bismil-lah, tawakkaltu AAalal-lah, wala hawla wala quwwata illa billah.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/16.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447129Z",
+    "updated_at": "2026-04-08T00:30:04.447130Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.775890Z"
+  }
+}

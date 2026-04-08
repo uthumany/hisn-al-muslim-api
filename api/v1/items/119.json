@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 119",
+  "data": {
+    "id": 119,
+    "chapter_id": 33,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say immediately following the Witr prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((سُبْحَانَ المَلِكِ القُدُّوسِ)) ثلاثَ مرَّاتٍ والثَّالِثَةُ يَجْهَرُ بها ويَمُدُّ بها صَوتَهُ يقولُ: [رَبِّ الْمَلاَئِكَةِ وَالرُّوحِ])).",
+    "english_text": "(How perfect The King, The Holy One is.(three times) on the third time he would raise his voice, elongate it and add: (Lord of the angles and the Rooh (i.e. Jibra-eel).))",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Subhanal-malikil-quddoos.(three times).on the third time he would raise his voice, elongate it and add: (Rabbil-mala-ikati warrooh.))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/119.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447441Z",
+    "updated_at": "2026-04-08T00:30:04.447442Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.784989Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 5",
+  "data": {
+    "id": 5,
+    "chapter_id": 2,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation when getting dressed",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "(الْحَمْدُ للَّهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلاَ قُوَّة...)",
+    "english_text": "(All Praise is for Allah who has clothed me with this garment and provided it for me, with no power nor might from myself.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Alhamdu lillahil-lathee kasanee hatha (aththawb) warazaqaneehi min ghayri hawlin minnee wala quwwah.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/5.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447175Z",
+    "updated_at": "2026-04-08T00:30:04.447176Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.775153Z"
+  }
+}

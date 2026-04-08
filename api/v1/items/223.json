@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 223",
+  "data": {
+    "id": 223,
+    "chapter_id": 107,
+    "chapter_title_ar": null,
+    "chapter_title_en": "The excellence of asking for Allah's blessings upon the Prophet pbuh",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((مَا مِنْ أَحَدٍ يُسَلِّمُ عَلَيَّ إِلاَّ رَدَّ اللَّهُ عَلَيَّ رُوحِيَ حَتَّى أَرُدَّ عَلَيْهِ السَّلاَمَ)).",
+    "english_text": "The Prophet [PBUH] said: 'No one sends greetings (or prayers of peace) upon me but Allah returns my soul to me so that I may return his greetings",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/223.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 5,
+    "created_at": "2026-04-08T00:30:04.447878Z",
+    "updated_at": "2026-04-08T00:30:04.447879Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.793156Z"
+  }
+}

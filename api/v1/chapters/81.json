@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 81",
+  "data": {
+    "id": 81,
+    "title_ar": null,
+    "title_en": "Invocation to be recited before intercourse",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 192,
+        "chapter_id": 81,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation to be recited before intercourse",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((بِسْمِ اللَّهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا)).",
+        "english_text": "(In the name of Allah. O Allah, keep the devil away from us and keep the devil away from what you have blessed us with.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Bismil-lah, allahumma jannibnash-shaytan, wajannibish-shaytana ma razaqtana.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/192.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447748Z",
+        "updated_at": "2026-04-08T00:30:04.447749Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

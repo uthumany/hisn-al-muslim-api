@@ -1,0 +1,176 @@
+{
+  "success": true,
+  "message": "Chapter 19",
+  "data": {
+    "id": 19,
+    "title_ar": null,
+    "title_en": "Invocations during Sujood",
+    "item_count": 7,
+    "items": [
+      {
+        "id": 41,
+        "chapter_id": 19,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Sujood",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبْحَانَ رَبِّيَ الأَعْلَى)) ثلاث مرَّاتٍ.",
+        "english_text": "(How perfect my Lord is, The Most High.’(three times))",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subhana rabbiyal-aAAla. (three times)))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/41.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447278Z",
+        "updated_at": "2026-04-08T00:30:04.447279Z"
+      },
+      {
+        "id": 42,
+        "chapter_id": 19,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Sujood",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي)).",
+        "english_text": "(How perfect You are O Allah, our Lord, and I praise You. O Allah, forgive me.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subhanakal-lahumma rabbana wabihamdik, allahummagh- fir lee.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/42.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 2,
+        "created_at": "2026-04-08T00:30:04.447282Z",
+        "updated_at": "2026-04-08T00:30:04.447283Z"
+      },
+      {
+        "id": 43,
+        "chapter_id": 19,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Sujood",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبوحٌ، قُدُّوسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوحِ)).",
+        "english_text": "(Perfect and Holy (He is), Lord of the angles and the Rooh (i.e. Jibra-eel).)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subbohoon quddos, rabbul-mala-ikati warrooh.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/43.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 3,
+        "created_at": "2026-04-08T00:30:04.447285Z",
+        "updated_at": "2026-04-08T00:30:04.447286Z"
+      },
+      {
+        "id": 44,
+        "chapter_id": 19,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Sujood",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِيَ لِلَّذِي خَلَقَهُ، وَصَوَّرَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسنُ الْخَالِقينَ)).",
+        "english_text": "(O Allah, unto You I have prostrated and in You I have believed, and unto You I have submitted. My face has prostrated before He Who created it and fashioned it, and brought forth its faculties of hearing and seeing. Blessed is Allah, the Best of creators.)",
+        "transliteration": "(Allahumma laka sajadt, wabika amant, walaka aslamt, sajada wajhee lillathee khalaqahu wasawwarahu washaqqa samAAahu wabasarahu, tabarakal-lahu ahsanul-khaliqeen.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahumma laka sajadt, wabika amant, walaka aslamt, sajada wajhee lillathee khalaqahu wasawwarahu washaqqa samAAahu wabasarahu, tabarakal-lahu ahsanul-khaliqeen.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/44.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 4,
+        "created_at": "2026-04-08T00:30:04.447288Z",
+        "updated_at": "2026-04-08T00:30:04.447289Z"
+      },
+      {
+        "id": 45,
+        "chapter_id": 19,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Sujood",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ)).",
+        "english_text": "(How perfect He is, The Possessor of total power, sovereignty, magnificence and grandeur.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subhana thil-jabaroot, walmalakoot, walkibriya/, walAAathamah.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/45.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 5,
+        "created_at": "2026-04-08T00:30:04.447292Z",
+        "updated_at": "2026-04-08T00:30:04.447293Z"
+      },
+      {
+        "id": 46,
+        "chapter_id": 19,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Sujood",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ: دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلاَنِيَّتَهُ وَسِرَّهُ)).",
+        "english_text": "(O Allah, forgive me all of my sins, the small and great of them, the first and last of them, and the seen and hidden of them.)",
+        "transliteration": "(Allahummagh-fir lee thanbee kullah, diqqahu wajillah, wa-awwalahu wa-akhirah, wa- AAalaniyyatahu wa-sirrah.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahummagh-fir lee thanbee kullah, diqqahu wajillah, wa-awwalahu wa-akhirah, wa- AAalaniyyatahu wa-sirrah.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/46.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 6,
+        "created_at": "2026-04-08T00:30:04.447295Z",
+        "updated_at": "2026-04-08T00:30:04.447296Z"
+      },
+      {
+        "id": 47,
+        "chapter_id": 19,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Sujood",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ)).",
+        "english_text": "(O Allah, I take refuge within Your pleasure from Your displeasure and within Your pardon from Your punishment, and I take refuge in You from You. I cannot enumerate Your praise, You are as You have praised Yourself.)",
+        "transliteration": "(Allahumma innee aAAoothu biridaka min sakhatik, wa-bimuAAafatika min AAuqoobatik, wa-aAAoothu bika mink, la ohsee thana-an AAalayk, anta kama athnayta AAala nafsik.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahumma innee aAAoothu biridaka min sakhatik, wa-bimuAAafatika min AAuqoobatik, wa-aAAoothu bika mink, la ohsee thana-an AAalayk, anta kama athnayta AAala nafsik.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/47.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 7,
+        "created_at": "2026-04-08T00:30:04.447299Z",
+        "updated_at": "2026-04-08T00:30:04.447301Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 7
+  }
+}

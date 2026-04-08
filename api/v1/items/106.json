@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 106",
+  "data": {
+    "id": 106,
+    "chapter_id": 28,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say before sleeping",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((سُبْحَانَ اللَّهِ (ثلاثاً وثلاثين) وَالْحَمْدُ لِلَّهِ (ثلاثاً وثلاثين) وَاللَّهُ أَكْبَرُ (أربعاً وثلاثينَ))).",
+    "english_text": "(How Perfect Allah is. (thirty-three times) All praise is for Allah.(thirty-three times) Allah is the greatest.(thirty-four times))",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Subhanal-lah. (thirty-three times) Alhamdu lillah. (thirty-three times) Allahu akbar. (thirty-four times))"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/106.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 8,
+    "created_at": "2026-04-08T00:30:04.447065Z",
+    "updated_at": "2026-04-08T00:30:04.447066Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.784017Z"
+  }
+}

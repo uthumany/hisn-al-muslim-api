@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 167",
+  "data": {
+    "id": 167,
+    "chapter_id": 61,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for when the wind blows",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيهَا، وَخَيْرَ مَا أُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا فِيهَا، وَشَرِّ مَا أُرْسِلَتْ بِهِ)).",
+    "english_text": "(O Allah, I ask You for it’s goodness, the good within it, and the good it was sent with, and I take refuge with You from it’s evil, the evil within it, and from the evil it was sent with.)",
+    "transliteration": "(Allahumma innee as-aluka khayraha wakhayra ma feeha, wakhayra ma orsilat bih, wa-aAAoothu bika min sharriha, washarri ma feeha washarri ma orsilat bih.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma innee as-aluka khayraha wakhayra ma feeha, wakhayra ma orsilat bih, wa-aAAoothu bika min sharriha, washarri ma feeha washarri ma orsilat bih.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/167.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447634Z",
+    "updated_at": "2026-04-08T00:30:04.447635Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.788715Z"
+  }
+}

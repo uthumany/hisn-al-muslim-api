@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 30",
+  "data": {
+    "id": 30,
+    "title_ar": null,
+    "title_en": "What to say if you are afraid to go to sleep or feel lonely and depressed",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 113,
+        "chapter_id": 30,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say if you are afraid to go to sleep or feel lonely and depressed",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّياطِينِ وَأَنْ يَحْضُرُونِ)).",
+        "english_text": "(I take refuge in the perfect words of Allah from His anger and punishment, and from the evil of His servants, and from the madness and appearance of devils.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(aAAoothu bikalimatil-lahit-tammat min ghadabih,waAAiqabih, washarri AAibadih, wamin hamazatish-shayateen, wa-an yahduroon.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/113.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447414Z",
+        "updated_at": "2026-04-08T00:30:04.447416Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

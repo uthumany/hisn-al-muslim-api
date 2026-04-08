@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 116",
+  "data": {
+    "id": 116,
+    "chapter_id": 32,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for Qunut in the Witr prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ؛ فَإِنَّكَ تَقْضِي وَلاَ يُقْضَى عَلَيْكَ، إِنَّهُ لاَ يَذِلُّ مَنْ وَالَيْتَ، [وَلاَ يَعِزُّ مَنْ عَادَيْتَ]، تَبارَكْتَ رَبَّنا وَتَعَالَيْتَ)).",
+    "english_text": "(O Allah, guide me along with those whom You have guided, pardon me along with those whom You have pardoned, be an ally to me along with those whom You are an ally to and bless for me that which You have bestowed.  Protect me from the evil You have decreed for verily You decree and none can decree over You.For surety, he whom you show allegiance to is never abased and he whom You take as an enemy is never honoured and mighty. O our Lord, Blessed and Exalted are You.)(Evil you have decreed: Allah does not create pure evil which does not have any good or contain any benefit, wisdom or mercy at all, nor does He punish anyone without having commited a sin. Something can be good in terms of its creation when viewed in a particular perspective and at the same time be evil when viewed in another way.Allah created the devil and by him, He tests His servants, so there are those who hate the devil, fight him and his way and they stand at enmity towards him and his followers and there are others who are at allegiance with the devil and follow his steps. So evil exists in His creatures by His will and wisdom, not in His actions or act of creating.)",
+    "transliteration": "(Allahummah-dinee feeman hadayt, waAAafinee feeman AAafayt, watawallanee feeman tawallayt, wabarik lee feema aAAtayt, waqinee sharra ma qadayt, fa-innaka taqdee wala yuqda AAalayk, innahu la yathillu man walayt, [wala yaAAizzu man AAadayt], tabarakta rabbana wataAAalayt.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahummah-dinee feeman hadayt, waAAafinee feeman AAafayt, watawallanee feeman tawallayt, wabarik lee feema aAAtayt, waqinee sharra ma qadayt, fa-innaka taqdee wala yuqda AAalayk, innahu la yathillu man walayt, [wala yaAAizzu man AAadayt], tabarakta rabbana wataAAalayt.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/116.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447428Z",
+    "updated_at": "2026-04-08T00:30:04.447429Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.784757Z"
+  }
+}

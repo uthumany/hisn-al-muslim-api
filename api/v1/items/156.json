@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 156",
+  "data": {
+    "id": 156,
+    "chapter_id": 55,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for the dead in the Funeral prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعَافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ دَاراً خَيْراً مِنْ دَارِهِ، وَأَهْلاً خَيْراً مِنْ أَهْلِهِ، وَزَوْجَاً خَيْراً مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ القَبْرِ [وَعَذَابِ النَّارِ])).",
+    "english_text": "(O Allah, forgive and have mercy upon him, excuse him and pardon him, and make honourable his reception. Expand his entry, and cleanse him with water, snow, and ice, and purify him of sin as a white robe is purified of filth.  Exchange his home for a better home, and his family for a better family, and his spouse for a better spouse. Admit him into the Garden, protect him from the punishment of the grave and the torment of the Fire.)",
+    "transliteration": "(Allahummagh-fir lahu warhamh, waAAafihi, waAAfu AAanh, wa-akrim nuzulah, wawassiAA mudkhalah, waghsilhu bilma-i waththalji walbarad, wanaqqihi minal-khataya kama naqqaytath-thawbal-abyada minad-danas, wa-abdilhu daran khayran min darih, wa-ahlan khayran min ahlih wazawjan khayran min zawjih, wa-adkhilhul-jannah, wa-aAAithhu min AAathabil-qabr, waAAathabin-nar)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahummagh-fir lahu warhamh, waAAafihi, waAAfu AAanh, wa-akrim nuzulah, wawassiAA mudkhalah, waghsilhu bilma-i waththalji walbarad, wanaqqihi minal-khataya kama naqqaytath-thawbal-abyada minad-danas, wa-abdilhu daran khayran min darih, wa-ahlan khayran min ahlih wazawjan khayran min zawjih, wa-adkhilhul-jannah, wa-aAAithhu min AAathabil-qabr, waAAathabin-nar)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/156.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447590Z",
+    "updated_at": "2026-04-08T00:30:04.447591Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.787880Z"
+  }
+}

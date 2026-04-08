@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 23",
+  "data": {
+    "id": 23,
+    "chapter_id": 15,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say upon hearing the Athan (call to prayer)",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": " يَقُولُ: ((وَأَنَا أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ، رَضِيتُ بِاللَّهِ رَبَّاً، وَبِمُحَمَّدٍ رَسُولاً، وَبِالْإِسْلاَمِ دِينَاً)) ((يَقُولُ ذَلِكَ عَقِبَ تَشَهُّدِ الْمُؤَذِّنِ)).",
+    "english_text": "Immediately following the declaration of faith called by the mu-aththin, one says:‘And I too bear witness that none has the right to be worshipped except Allah, alone, without partner, and that Muhammad is His salve and Messenger.  I am pleased with Allah as a Lord, and Muhammad as a Messenger and Islam as a religion.’",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "Immediately following the declaration of faith called by the mu-aththin, one says:Wa-ana ashhadu an la ilaha illal-lahu wahdahu la shareeka lah, wa-anna Muhammadan AAabduhu warasooluh, radeetu billahi rabban wabimuhammadin rasoolan wabil-islami deena."
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/23.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447161Z",
+    "updated_at": "2026-04-08T00:30:04.447162Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.776390Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 248",
+  "data": {
+    "id": 248,
+    "chapter_id": 129,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Repentance and seeking forgiveness",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: ((وَاللَّهِ إِنِّي لأَسْتَغفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةٍ)).",
+    "english_text": "(The Messenger of Allah  said: ‘By Allah, I seek forgiveness and repent to Allah, more than seventy times a day.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/248.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.448003Z",
+    "updated_at": "2026-04-08T00:30:04.448004Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.795301Z"
+  }
+}

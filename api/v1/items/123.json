@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 123",
+  "data": {
+    "id": 123,
+    "chapter_id": 35,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for anguish",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ رَحْمَتَكَ أَرْجُو، فَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لاَ إِلَهَ إِلاَّ أَنْتَ)).",
+    "english_text": "(O Allah, it is Your mercy that I hope for, so do not leave me in charge of my affairs even for a blink of an eye and rectify for me all of my affairs.None has the right to be worshipped except You.)",
+    "transliteration": "(Allahumma rahmataka arjoo fala takilnee ila nafsee tarfata AAayn, wa-aslih lee sha/nee kullah, la ilaha illa ant.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma rahmataka arjoo fala takilnee ila nafsee tarfata AAayn, wa-aslih lee sha/nee kullah, la ilaha illa ant.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/123.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447456Z",
+    "updated_at": "2026-04-08T00:30:04.447457Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.785325Z"
+  }
+}

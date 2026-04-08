@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 174",
+  "data": {
+    "id": 174,
+    "chapter_id": 66,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocation for the withholding of the rain",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا، اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ، وَبُطُونِ الْأَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ)).",
+    "english_text": "(O Allah, let the rain fall around us and not upon us, O Allah, (let it fall) on the pastures, hills, valleys and the roots of trees.)",
+    "transliteration": "(Allahumma hawalayna wala AAalayna, allahumma AAalal-akami waththirab, wabutoonil-awdiyah, wamanabitish-shajar.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma hawalayna wala AAalayna, allahumma AAalal-akami waththirab, wabutoonil-awdiyah, wamanabitish-shajar.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/174.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447660Z",
+    "updated_at": "2026-04-08T00:30:04.447661Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.789310Z"
+  }
+}

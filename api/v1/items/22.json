@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 22",
+  "data": {
+    "id": 22,
+    "chapter_id": 15,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say upon hearing the Athan (call to prayer)",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": " يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إِلاَّ فِي ((حَيَّ عَلَى الصَّلَاةِ وَحَيَّ عَلَى الْفَلَاحِ)) فَيقُولُ: ((لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ)).",
+    "english_text": "‘One repeats just as the mu-aththin (one who calls to prayer) says, except when he says: Hayya AAalas-salah (or) hayya AAalal-falah ‘come to prayer, come to success’ instead, one should say: La hawla wala quwwata illa billah. ‘There is no might nor power except with Allah.’",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/22.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447156Z",
+    "updated_at": "2026-04-08T00:30:04.447157Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.776307Z"
+  }
+}

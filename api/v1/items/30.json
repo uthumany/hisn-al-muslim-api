@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 30",
+  "data": {
+    "id": 30,
+    "chapter_id": 16,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for the beginning of the prayer",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ رَبَّ جِبْرَائِيلَ، وَمِيْكَائِيلَ، وَإِسْرَافِيلَ، فَاطِرَ السَّمَوَاتِ وَالأَرْضِ، عَالِمَ الغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ. اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقيمٍ)).",
+    "english_text": "(O Allah, Lord of Jibra-eel, Meeka-eel and Israfeel (great angles), Creator of the heavens and the Earth, Knower of the seen and the unseen.  You are the arbitrator  between Your servants in that which they have disputed.  Guide me to the truth by Your leave, in that which they have differed, for verily You guide whom You will to a straight path.)",
+    "transliteration": "(Allahumma rabba jibra-eel, wameeka-eel, wa-israfeel fatiras-samawati walard, AAalimal-ghaybi washshahadah, anta tahkumu bayna AAibadika feema kanoo feehi yakhtalifoon. ihdinee limakh-tulifa feehi minal-haqqi bi-ithnik, innaka tahdee man tasha-o ila siratin mustaqeem.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma rabba jibra-eel, wameeka-eel, wa-israfeel fatiras-samawati walard, AAalimal-ghaybi washshahadah, anta tahkumu bayna AAibadika feema kanoo feehi yakhtalifoon. ihdinee limakh-tulifa feehi minal-haqqi bi-ithnik, innaka tahdee man tasha-o ila siratin mustaqeem.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/30.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 4,
+    "created_at": "2026-04-08T00:30:04.447233Z",
+    "updated_at": "2026-04-08T00:30:04.447234Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.777090Z"
+  }
+}

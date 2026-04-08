@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 249",
+  "data": {
+    "id": 249,
+    "chapter_id": 129,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Repentance and seeking forgiveness",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((يَا أَيُّهَا النَّاسُ تُوبُوا إِلَى اللَّهِ فَإِنِّي أَتُوبُ فِي الْيَوْمِ إِلَيْهِ مِائَةَ مَرَّةٍ)).",
+    "english_text": "(He  also said: ‘O People, Repent! Verily I repent to Allah, a hundred times a day.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/249.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.448006Z",
+    "updated_at": "2026-04-08T00:30:04.448007Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.795379Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 76",
+  "data": {
+    "id": 76,
+    "title_ar": null,
+    "title_en": "Invocation for when you see the first dates of the season",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 187,
+        "chapter_id": 76,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation for when you see the first dates of the season",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِينَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا)).",
+        "english_text": "(O Allah, bless our fruit for us, bless our town for us, bless our saAA for us and bless our mudd for us.)(A saAA is equivalent to four mudds and a mudd is equivalent to a dry measure of an average man’s two palms.)",
+        "transliteration": "(Allahumma barik lana fee thamarina, wabarik lana fee madeenatina, wabarik lana fee saAAina wabarik lana fee muddina.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahumma barik lana fee thamarina, wabarik lana fee madeenatina, wabarik lana fee saAAina wabarik lana fee muddina.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/187.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447728Z",
+        "updated_at": "2026-04-08T00:30:04.447730Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

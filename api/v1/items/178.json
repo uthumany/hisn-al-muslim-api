@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 178",
+  "data": {
+    "id": 178,
+    "chapter_id": 69,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations before eating",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((إِذَا أَكَلَ أَحَدُكُمْ طَعَاماً فَلْيَقُلْ بِسْمِ اللَّهِ، فَإِنْ نَسِيَ فِي أَوَّلِهِ فَلْيَقُلْ بسمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ)).",
+    "english_text": "(When you are about to eat, you should say:(Bismil-lah.)and if you forget to say it before starting, then you should say (when you remember):In the name of Allah in it’s beginning and end.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(When you are about to eat, you should say:(Bismil-lah.)and if you forget to say it before starting, then you should say (when you remember):Bismil-lahi fee awwalihi wa-akhirih.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/178.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447692Z",
+    "updated_at": "2026-04-08T00:30:04.447693Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.789598Z"
+  }
+}

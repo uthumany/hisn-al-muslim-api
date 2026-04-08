@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 45",
+  "data": {
+    "id": 45,
+    "chapter_id": 19,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations during Sujood",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ)).",
+    "english_text": "(How perfect He is, The Possessor of total power, sovereignty, magnificence and grandeur.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Subhana thil-jabaroot, walmalakoot, walkibriya/, walAAathamah.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/45.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 5,
+    "created_at": "2026-04-08T00:30:04.447292Z",
+    "updated_at": "2026-04-08T00:30:04.447293Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.778531Z"
+  }
+}

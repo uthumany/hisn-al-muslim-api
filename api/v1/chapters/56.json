@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "message": "Chapter 56",
+  "data": {
+    "id": 56,
+    "title_ar": null,
+    "title_en": "Invocations for a child in the Funeral prayer",
+    "item_count": 2,
+    "items": [
+      {
+        "id": 160,
+        "chapter_id": 56,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations for a child in the Funeral prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ أَعِذْهُ مِنْ عَذَابِ القَبْرِ)) وإن قال: ((اللَّهُمَّ اجْعَلْهُ فَرَطاً وَذُخْراً لِوَالِدَيْهِ، وَشَفِيعاً مُجَاباً، اللَّهُمَّ ثَقِّلْ بِهِ مَوَازِينَهُمَا، وَأَعْظِمْ بِهِ أُجورَهُمَا، وَأَلْحِقْهُ بِصَالِحِ الْمُؤْمِنِينَ، وَاجْعَلْهُ فِي كَفَالَةِ إِبْرَاهِيمَ، وَقِهِ بِرَحْمَتِكَ عَذَابَ الْجَحِيمِ، وَأَبْدِلْهُ دَاراً خَيْراً مِنْ دَارِهِ، وَأَهْلاً خَيْراً مِنْ أَهْلِهِ، اللَّهُمَّ اغْفِرْ لِأَسْلاَفِنَا، وَأَفْرَاطِنَا، وَمَنْ سَبَقَنَا بِالْإِيمَانِ)) إن قال ذلك فَحَسَنٌ.",
+        "english_text": "O Allah, protect him from the torment of the grave . [it is also good to say] O Allah, make him a precursor, a forerunner and a treasure for his parents and an answered intercessor. O Allah, make him weigh heavily in their scales (of good)  and magnify their reward. Make him join the righteous of the believers. Place him in the care of Ibrahim. Save him by Your mercy from the torment of Hell. Give him a home better than his home and a family better than his family. O Allah, forgive those who have gone (i.e. passed away) before us, our children lost (by death), and those who have preceded us in Faith.",
+        "transliteration": "(Allaahumma 'a'ith-hu min 'athaabil-qabri.) [or say:](Allahummaj-AAalhu faratan, wathukhran liwalidayh, washafeeAAan mujaban. Allahumma thaqqil bihi mawazeenahuma wa-aAAthim bihi ojoorahuma, wa-alhiqhu bisalihil-mu'mineen, wajAAalhu fee kafalati Ibraheem, waqihi birahmatika AAathabal-jaheem, wa 'abdilhu daaran khayran min daarihi, wa 'ahlan khayran min 'ahlihi, Allaahum-maghfir li'aslaafinaa, wa afraatinaa wa man sabaqanaa bil'eemaan)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allaahumma 'a'ith-hu min 'athaabil-qabri.) [or say:](Allahummaj-AAalhu faratan, wathukhran liwalidayh, washafeeAAan mujaban. Allahumma thaqqil bihi mawazeenahuma wa-aAAthim bihi ojoorahuma, wa-alhiqhu bisalihil-mu'mineen, wajAAalhu fee kafalati Ibraheem, waqihi birahmatika AAathabal-jaheem, wa 'abdilhu daaran khayran min daarihi, wa 'ahlan khayran min 'ahlihi, Allaahum-maghfir li'aslaafinaa, wa afraatinaa wa man sabaqanaa bil'eemaan)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/160.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447605Z",
+        "updated_at": "2026-04-08T00:30:04.447606Z"
+      },
+      {
+        "id": 161,
+        "chapter_id": 56,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations for a child in the Funeral prayer",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ اجْعَلْهُ لَنَا فَرَطاً، وَسَلَفاً، وَأَجْراً)).",
+        "english_text": "(O Allah, make him for us a precursor,a forerunner and a cause of reward)",
+        "transliteration": "(Allahummaj-AAalhu lana farata, wasalafan wa-ajra.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahummaj-AAalhu lana farata, wasalafan wa-ajra.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/161.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 2,
+        "created_at": "2026-04-08T00:30:04.447608Z",
+        "updated_at": "2026-04-08T00:30:04.447609Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 2
+  }
+}

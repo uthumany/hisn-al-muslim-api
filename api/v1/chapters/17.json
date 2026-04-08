@@ -1,0 +1,130 @@
+{
+  "success": true,
+  "message": "Chapter 17",
+  "data": {
+    "id": 17,
+    "title_ar": null,
+    "title_en": "Invocations during Ruki' (bowing in prayer)",
+    "item_count": 5,
+    "items": [
+      {
+        "id": 33,
+        "chapter_id": 17,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Ruki' (bowing in prayer)",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبْحانَ رَبِّيَ الْعَظِيمِ)). ثلاث مرَّاتٍ.",
+        "english_text": "(How perfect my Lord is, The Supreme.’(three times))",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subhana rabbiyal-AAatheem (three times))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/33.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447247Z",
+        "updated_at": "2026-04-08T00:30:04.447248Z"
+      },
+      {
+        "id": 34,
+        "chapter_id": 17,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Ruki' (bowing in prayer)",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي)).",
+        "english_text": "(How perfect You are O Allah, our Lord and I praise You.  O Allah, forgive me.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subhanakal-lahumma rabbana wabihamdik, allahummagh-fir lee)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/34.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 2,
+        "created_at": "2026-04-08T00:30:04.447250Z",
+        "updated_at": "2026-04-08T00:30:04.447252Z"
+      },
+      {
+        "id": 35,
+        "chapter_id": 17,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Ruki' (bowing in prayer)",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبُّوُحٌ، قُدُّوسٌ، رَبُّ المَلاَئِكَةِ وَالرُّوحِ)).",
+        "english_text": "(Perfect and Holy (He is), Lord of the angles and the Rooh (i.e. Jibra-eel).)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subboohun quddoos, rabbul-mala-ikati warrooh.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/35.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 3,
+        "created_at": "2026-04-08T00:30:04.447254Z",
+        "updated_at": "2026-04-08T00:30:04.447255Z"
+      },
+      {
+        "id": 36,
+        "chapter_id": 17,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Ruki' (bowing in prayer)",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((اللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، خَشَعَ لَكَ سَمْعِي، وَبَصَرِي، وَمُخِّي، وَعَــــظْمِي، وَعَصَبِي، [وَمَا استَقَلَّتْ بِهِ قَدَمِي])).",
+        "english_text": "(O Allah, unto You I have bowed, and in You I have believed, and to You I have submitted. My hearing, sight, mind, bones, tendons and what my feet carry are humbled before You.)",
+        "transliteration": "(Allahumma laka rakaAAt, wabika amant, walaka aslamt, khashaAAa laka samAAee, wabasaree, wamukhkhee, waAAathmee, waAAasabee, wamas-taqalla bihi qadamee.)",
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Allahumma laka rakaAAt, wabika amant, walaka aslamt, khashaAAa laka samAAee, wabasaree, wamukhkhee, waAAathmee, waAAasabee, wamas-taqalla bihi qadamee.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/36.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 4,
+        "created_at": "2026-04-08T00:30:04.447257Z",
+        "updated_at": "2026-04-08T00:30:04.447259Z"
+      },
+      {
+        "id": 37,
+        "chapter_id": 17,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocations during Ruki' (bowing in prayer)",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ)).",
+        "english_text": "(How perfect He is, The Possessor of total power, sovereignty, magnificence and grandeur.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Subhana thil-jabaroot, walmalakoot, walkibriya/, walAAathamah.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/37.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 5,
+        "created_at": "2026-04-08T00:30:04.447261Z",
+        "updated_at": "2026-04-08T00:30:04.447262Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 5
+  }
+}

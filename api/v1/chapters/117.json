@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 117",
+  "data": {
+    "id": 117,
+    "title_ar": null,
+    "title_en": "Invocation to be recited between the Yemenite Corner and the Black Stone",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 235,
+        "chapter_id": 117,
+        "chapter_title_ar": null,
+        "chapter_title_en": "Invocation to be recited between the Yemenite Corner and the Black Stone",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((﴿رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ﴾)).",
+        "english_text": "The Prophet PBUH used to say between the Yemeni corner and the black stone: (O our Lord, grant us the best in this life and the best in the next life, and protect us from the punishment of the Fire.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "The Prophet PBUH used to say between the Yemeni corner and the black stone: (Rabbana atina fee alddunya hasanatan wafee al-akhirati hasanatan waqina  AAathaba alnnar)[Al-Baqarah: 201]"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/235.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447927Z",
+        "updated_at": "2026-04-08T00:30:04.447928Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

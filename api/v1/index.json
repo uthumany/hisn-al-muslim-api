@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Hisn al-Muslim API Overview",
+  "data": {
+    "name": "hisn-al-muslim-api",
+    "description": "Static JSON API for Hisn al-Muslim",
+    "endpoints": [
+      "chapters",
+      "items",
+      "random",
+      "meta"
+    ]
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.754605Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 76",
+  "data": {
+    "id": 76,
+    "chapter_id": 27,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Words of remembrance for morning and evening",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "(بسم الله الرحمن الرحيم ﴿قُلْ هُوَ اللَّهُ أَحَدٌ* اللَّهُ الصَّمَدُ* لَمْ يَلِدْ وَلَمْ يُولَدْ* وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ﴾.) (بسم الله الرحمن الرحيم ﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ* مِن شَرِّ مَا خَلَقَ* وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ* وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ* وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ﴾.) (بسم الله الرحمن الرحيم ﴿قُلْ أَعُوذُ بِرَبِّ النَّاسِ* مَلِكِ النَّاسِ* إِلَهِ النَّاسِ* مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ* الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ* مِنَ الْجِنَّةِ وَ النَّاسِ﴾)",
+    "english_text": "([Soorah al-Ikhlaas (112)]( 1 )   Say, He is Allah, [who is] One,( 2 )   Allah, the Eternal Refuge.( 3 )   He neither begets nor is born,( 4 )   Nor is there to Him any equivalent.)([Soorah al-Falaq (113)] ( 1 )   Say, I seek refuge in the Lord of daybreak( 2 )   From the evil of that which He created( 3 )   And from the evil of darkness when it settles( 4 )   And from the evil of the blowers in knots( 5 )   And from the evil of an envier when he envies. )([Soorah an-Naas (114)])( 1 )   Say, I seek refuge in the Lord of mankind,( 2 )   The Sovereign of mankind.( 3 )   The God of mankind,( 4 )   From the evil of the retreating whisperer -( 5 )   Who whispers [evil] into the breasts of mankind -( 6 )   From among the jinn and mankind.",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "Then recite [Soorah al-Ikhlaas (112)], [Soorah al-Falaq (113)] and [Soorah an-Naas (114)]"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/76.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.446917Z",
+    "updated_at": "2026-04-08T00:30:04.446918Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.781644Z"
+  }
+}

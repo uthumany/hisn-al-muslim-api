@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 177",
+  "data": {
+    "id": 177,
+    "chapter_id": 68,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for breaking the fast",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ أَنْ تَغْفِرَ لِي)).",
+    "english_text": "(O Allah, I ask You by Your mercy which envelopes all things, that You forgive me.)",
+    "transliteration": "(Allahumma inne as-aluka birahmatikal-latee wasiAAat kulla shay, an taghfira lee.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma inne as-aluka birahmatikal-latee wasiAAat kulla shay, an taghfira lee.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/177.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447686Z",
+    "updated_at": "2026-04-08T00:30:04.447689Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.789527Z"
+  }
+}

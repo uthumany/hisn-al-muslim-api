@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 129",
+  "data": {
+    "id": 129,
+    "chapter_id": 37,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations against the oppression of rulers",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ ربَّ السَّمَوَاتِ السَّبْعِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، كُنْ لِي جَاراً مِنْ فُلاَنِ بْنِ فُلاَنٍ، وَأَحْزَابِهِ مِنْ خَلاَئِقِكَ، أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ يَطْغَى، عَزَّ جَارُكَ، وَجَلَّ ثَنَاؤُكَ، وَلاَ إِلَهَ إِلاَّ أَنْتَ)).",
+    "english_text": "O Allah, Lord of the seven heavens, Lord of the Magnificent Throne,  be for me a support against [such and such a person] and his helpers from among your creatures, lest any of them abuse me or do me wrong. Mighty is your patronage and glorious are your praises. There is none worthy of worship but you.",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "Allaahumma rabbas-samaawaatis-sab'i, wa Rabbal-'Arshil-'Adheem, Kun lee jaaran min (here you mention the person's name) wa 'ahzabihi min khalaa'iqika, 'an yafruta 'alayya 'ahadun minhum 'aw yatghaa,'Azza jaaruka, wa jalla thanaa'uka, wa laa 'ilaaha 'illaa 'Anta."
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/129.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447480Z",
+    "updated_at": "2026-04-08T00:30:04.447481Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.785836Z"
+  }
+}

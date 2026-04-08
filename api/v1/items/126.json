@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 126",
+  "data": {
+    "id": 126,
+    "chapter_id": 36,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations for when you meet an adversary or a powerful ruler.",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِم، وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ)).",
+    "english_text": "(O Allah, we place You before them and we take refuge in You from their evil.)",
+    "transliteration": "(Allahumma inna najAAaluka fee nuhoorihim wanaAAoothu bika min shuroorihim.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma inna najAAaluka fee nuhoorihim wanaAAoothu bika min shuroorihim.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/126.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 1,
+    "created_at": "2026-04-08T00:30:04.447467Z",
+    "updated_at": "2026-04-08T00:30:04.447470Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.785618Z"
+  }
+}

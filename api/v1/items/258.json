@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 258",
+  "data": {
+    "id": 258,
+    "chapter_id": 130,
+    "chapter_title_ar": null,
+    "chapter_title_en": "The excellence of remembering Allah",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "وَقَالَ صلى الله عليه وسلم: ((أَيَعْجِزُ أَحَدُكُم أَنْ يَكْسِبَ كُلَّ يَوْمٍ أَلْفَ حَسَنَةٍ)) فَسَأَلَهُ سَائِلٌ مِنْ جُلَسَائِهِ كَيْفَ يَكْسِبُ أَحَدُنَا أَلْفَ حَسَنَةٍ؟ قَالَ: ((يُسَبِّحُ مِائَةَ تَسْبِيحَةٍ، فَيُكتَبُ لَهُ أَلْفُ حَسَنَةٍ أَوْ يُحَطُّ عَنْهُ أَلْفُ خَطِيئَةٍ)).",
+    "english_text": "(Sa’d  said: ‘We were sitting with the Messenger of Allah , and he said: ‘Are any of you unable to gain a thousand good deeds each day?’ Somebody then asked him  : How does one achieve a thousand good deeds? He replied: ‘He should say: (How perfect Allah is.) one hundred times, for a thousand good deeds are recorded for him or a thousand bad deeds are wiped away.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Sa’d  said: ‘We were sitting with the Messenger of Allah , and he said: ‘Are any of you unable to gain a thousand good deeds each day?’ Somebody then asked him  : How does one achieve a thousand good deeds? He replied: ‘He should say: (Subhanal-lah.) one hundred times, for a thousand good deeds are recorded for him or a thousand bad deeds are wiped away.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/258.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 5,
+    "created_at": "2026-04-08T00:30:04.448043Z",
+    "updated_at": "2026-04-08T00:30:04.448044Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.796113Z"
+  }
+}

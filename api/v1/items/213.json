@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 213",
+  "data": {
+    "id": 213,
+    "chapter_id": 101,
+    "chapter_title_ar": null,
+    "chapter_title_en": "The resident's invocations for the traveler",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَ ذَنْبَكَ، وَيَسَّرَ لَكَ الخَيْرَ حَيْثُ ما كُنْتَ)).",
+    "english_text": "(May Allah endow you with taqwa, forgive your sins and facilitate all good for you, wherever you be.)(taqwa: a comprehensive term which refers to all good actions and obedience i.e. performing the commanded actions and avoiding the prohibited actions.)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Zawwadakal-lahut-taqwa, waghafara thanbak, wayassara lakal-khayra haythuma kunt.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/213.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447840Z",
+    "updated_at": "2026-04-08T00:30:04.447841Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.792304Z"
+  }
+}

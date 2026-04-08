@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 170",
+  "data": {
+    "id": 170,
+    "chapter_id": 63,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Some invocations for rain",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا)).",
+    "english_text": "(O Allah, relieve us, O Allah, relieve us, O Allah, relieve us.)",
+    "transliteration": "(Allahumma aghithna, allahumma aghithna, allahumma aghithna.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma aghithna, allahumma aghithna, allahumma aghithna.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/170.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447645Z",
+    "updated_at": "2026-04-08T00:30:04.447646Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.788933Z"
+  }
+}

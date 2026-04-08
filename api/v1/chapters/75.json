@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 75",
+  "data": {
+    "id": 75,
+    "title_ar": null,
+    "title_en": "What to say when you are fasting and someone is rude to you",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 186,
+        "chapter_id": 75,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say when you are fasting and someone is rude to you",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((إِنِّي صَائِمٌ، إِنِّي صَائِمٌ)).",
+        "english_text": "(I am fasting, I am fasting.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Innee sa-im, innee sa-im.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/186.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447725Z",
+        "updated_at": "2026-04-08T00:30:04.447726Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

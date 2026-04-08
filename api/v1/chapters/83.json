@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 83",
+  "data": {
+    "id": 83,
+    "title_ar": null,
+    "title_en": "What to say if you see someone afflicted by misfortune",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 194,
+        "chapter_id": 83,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say if you see someone afflicted by misfortune",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلاَكَ بِهِ، وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلاً)).",
+        "english_text": "(All praise is for Allah Who saved me from that which He tested you with and Who most certainly favoured me over much of His creation.)",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Alhamdu lillahil-lathee AAafanee mimmab-talaka bih, wafaddalanee AAala katheerin mimman khalaqa tafdeela.)"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/194.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447755Z",
+        "updated_at": "2026-04-08T00:30:04.447756Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

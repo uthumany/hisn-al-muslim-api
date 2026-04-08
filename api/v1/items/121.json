@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 121",
+  "data": {
+    "id": 121,
+    "chapter_id": 34,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations in times of worry and grief",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ)).",
+    "english_text": "(O Allah, I take refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being over powered by men.)",
+    "transliteration": "(Allahumma innee aAAoothu bika minal-hammi walhuzn, walAAajzi walkasali walbukhli waljubn, wadalAAid-dayni waghalabatir-rijal.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahumma innee aAAoothu bika minal-hammi walhuzn, walAAajzi walkasali walbukhli waljubn, wadalAAid-dayni waghalabatir-rijal.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/121.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 2,
+    "created_at": "2026-04-08T00:30:04.447449Z",
+    "updated_at": "2026-04-08T00:30:04.447450Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.785176Z"
+  }
+}

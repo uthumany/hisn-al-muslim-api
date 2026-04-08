@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "Chapter 84",
+  "data": {
+    "id": 84,
+    "title_ar": null,
+    "title_en": "What to say while sitting in an assembly",
+    "item_count": 1,
+    "items": [
+      {
+        "id": 195,
+        "chapter_id": 84,
+        "chapter_title_ar": null,
+        "chapter_title_en": "What to say while sitting in an assembly",
+        "title_ar": null,
+        "title_en": null,
+        "arabic_text": "((عَنِ ابْنِ عُمَرَ رضي الله عنه قَاَلَ: كَانَ يُعَدُّ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْمَجْلِسِ الوَاحِدِ مِائَةُ مَرَّةٍ مِنْ قَبْلِ أَنْ يَقُومَ: ((رَبِّ اغْفِرْ لِي، وَتُبْ عَلَيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الغَفُورُ)).",
+        "english_text": "(Ibn AAumar  said: It would be counted that the Messenger of Allah  would say one hundred times at any one sitting before getting up: (O my Lord, forgive me and turn towards me (to accept my repentance). Verily You are The Oft-Returning. The Oft-Forgiving.))",
+        "transliteration": null,
+        "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+          "raw": "(Ibn AAumar  said: It would be counted that the Messenger of Allah  would say one hundred times at any one sitting before getting up: (Rabbigh-fir lee watub AAalay, innaka antat-tawwabul-ghafoor.))"
+        },
+        "audio_url": "http://www.hisnmuslim.com/audio/ar/195.mp3",
+        "audio_sync": {
+          "words": []
+        },
+        "footnote": null,
+        "source": "Hisn al-Muslim",
+        "order_index": 1,
+        "created_at": "2026-04-08T00:30:04.447760Z",
+        "updated_at": "2026-04-08T00:30:04.447762Z"
+      }
+    ]
+  },
+  "meta": {
+    "count": 1
+  }
+}

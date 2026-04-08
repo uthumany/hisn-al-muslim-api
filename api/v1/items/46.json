@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 46",
+  "data": {
+    "id": 46,
+    "chapter_id": 19,
+    "chapter_title_ar": null,
+    "chapter_title_en": "Invocations during Sujood",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ: دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلاَنِيَّتَهُ وَسِرَّهُ)).",
+    "english_text": "(O Allah, forgive me all of my sins, the small and great of them, the first and last of them, and the seen and hidden of them.)",
+    "transliteration": "(Allahummagh-fir lee thanbee kullah, diqqahu wajillah, wa-awwalahu wa-akhirah, wa- AAalaniyyatahu wa-sirrah.)",
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": "(Allahummagh-fir lee thanbee kullah, diqqahu wajillah, wa-awwalahu wa-akhirah, wa- AAalaniyyatahu wa-sirrah.)"
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/46.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 6,
+    "created_at": "2026-04-08T00:30:04.447295Z",
+    "updated_at": "2026-04-08T00:30:04.447296Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.778602Z"
+  }
+}

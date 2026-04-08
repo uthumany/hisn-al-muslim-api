@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Item 110",
+  "data": {
+    "id": 110,
+    "chapter_id": 28,
+    "chapter_title_ar": null,
+    "chapter_title_en": "What to say before sleeping",
+    "title_ar": null,
+    "title_en": null,
+    "arabic_text": "((يَقْرَأُ ﴿الم﴾ تَنْزِيلَ السَّجْدَة ِ،  وَتَبَارَكَ الَّذي بِيَدِهِ الْمُلْكُ)).",
+    "english_text": "(The Prophet  never used to sleep until he had recited Soorat As-Sajdah (chapter 32) and Soorat Al-Mulk (chapter 67).)",
+    "transliteration": null,
+    "LANGUAGE_ARABIC_TRANSLATED_TEXT": {
+      "raw": ""
+    },
+    "audio_url": "http://www.hisnmuslim.com/audio/ar/110.mp3",
+    "audio_sync": {
+      "words": []
+    },
+    "footnote": null,
+    "source": "Hisn al-Muslim",
+    "order_index": 12,
+    "created_at": "2026-04-08T00:30:04.447081Z",
+    "updated_at": "2026-04-08T00:30:04.447082Z"
+  },
+  "meta": {
+    "version": "v1",
+    "last_updated": "2026-04-08T00:46:02.784322Z"
+  }
+}
