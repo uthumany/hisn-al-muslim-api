@@ -1,0 +1,102 @@
+openapi: 3.0.0
+info:
+  title: Hisn al-Muslim API
+  description: A clean, production-ready JSON API for Hisn al-Muslim (Fortress of the Muslim).
+  version: 1.0.0
+servers:
+  - url: http://localhost:3000
+    description: Local development server
+paths:
+  /api/v1:
+    get:
+      summary: API Overview
+      responses:
+        '200':
+          description: Successful response
+  /api/v1/chapters:
+    get:
+      summary: Get all chapters
+      responses:
+        '200':
+          description: Successful response
+  /api/v1/chapters/{chapterId}:
+    get:
+      summary: Get a single chapter with its items
+      parameters:
+        - name: chapterId
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Successful response
+  /api/v1/items:
+    get:
+      summary: Get all items with pagination
+      parameters:
+        - name: page
+          in: query
+          schema:
+            type: integer
+        - name: limit
+          in: query
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Successful response
+  /api/v1/items/{id}:
+    get:
+      summary: Get a single item by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Successful response
+  /api/v1/search:
+    get:
+      summary: Search items
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successful response
+  /api/v1/random:
+    get:
+      summary: Get a random item
+      responses:
+        '200':
+          description: Successful response
+  /api/v1/audio/{id}:
+    get:
+      summary: Get audio metadata for an item
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Successful response
+  /api/v1/meta:
+    get:
+      summary: Get dataset statistics
+      responses:
+        '200':
+          description: Successful response
+  /health:
+    get:
+      summary: Health check
+      responses:
+        '200':
+          description: Successful response
